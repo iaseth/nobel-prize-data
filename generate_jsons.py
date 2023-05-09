@@ -4,6 +4,12 @@ import os
 import requests
 
 
+def save_object_as_json(data, jsonPath):
+	with open(jsonPath, "w") as f:
+		json.dump(data, f, indent="\t")
+	print(f"Saved: {jsonPath}")
+
+
 def generate_v1_data():
 	v1_json_path = "data/v1/prize.json"
 	jo = json.load(open(v1_json_path))
@@ -27,16 +33,12 @@ def generate_v1_data():
 	for year in years:
 		data = years[year]
 		jsonPath = f"src/v1/{year}.json"
-		with open(jsonPath, "w") as f:
-			json.dump(data, f, indent="\t")
-		print(f"Saved: {jsonPath}")
+		save_object_as_json(data, jsonPath)
 
 	for category in categories:
 		data = categories[category]
 		jsonPath = f"src/v1/{category}.json"
-		with open(jsonPath, "w") as f:
-			json.dump(data, f, indent="\t")
-		print(f"Saved: {jsonPath}")
+		save_object_as_json(data, jsonPath)
 
 
 def main():
