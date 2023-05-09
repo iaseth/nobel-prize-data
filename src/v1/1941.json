@@ -1,1 +1,24 @@
-{"prizes": [{"year": "1941", "category": "literature", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was with 1/3 allocated to the Main Fund and with 2/3 to the Special Fund of this prize section.\""}, {"year": "1941", "category": "peace", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was with 1/3 allocated to the Main Fund and with 2/3 to the Special Fund of this prize section.\""}, {"year": "1941", "category": "physics", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was with 1/3 allocated to the Main Fund and with 2/3 to the Special Fund of this prize section.\""}, {"year": "1941", "category": "medicine", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was with 1/3 allocated to the Main Fund and with 2/3 to the Special Fund of this prize section.\""}]}
+{
+	"prizes": [
+		{
+			"year": "1941",
+			"category": "literature",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was with 1/3 allocated to the Main Fund and with 2/3 to the Special Fund of this prize section.\""
+		},
+		{
+			"year": "1941",
+			"category": "peace",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was with 1/3 allocated to the Main Fund and with 2/3 to the Special Fund of this prize section.\""
+		},
+		{
+			"year": "1941",
+			"category": "physics",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was with 1/3 allocated to the Main Fund and with 2/3 to the Special Fund of this prize section.\""
+		},
+		{
+			"year": "1941",
+			"category": "medicine",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was with 1/3 allocated to the Main Fund and with 2/3 to the Special Fund of this prize section.\""
+		}
+	]
+}

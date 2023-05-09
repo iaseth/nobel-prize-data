@@ -1,1 +1,70 @@
-{"prizes": [{"year": "1959", "category": "literature", "laureates": [{"id": "630", "firstname": "Salvatore", "surname": "Quasimodo", "motivation": "\"for his lyrical poetry, which with classical fire expresses the tragic experience of life in our own times\"", "share": "1"}]}, {"year": "1959", "category": "peace", "laureates": [{"id": "518", "firstname": "Philip", "surname": "Noel-Baker", "motivation": "\"for his longstanding contribution to the cause of disarmament and peace\"", "share": "1"}]}, {"year": "1959", "category": "physics", "laureates": [{"id": "72", "firstname": "Emilio", "surname": "Segr\u00e8", "motivation": "\"for their discovery of the antiproton\"", "share": "2"}, {"id": "73", "firstname": "Owen", "surname": "Chamberlain", "motivation": "\"for their discovery of the antiproton\"", "share": "2"}]}, {"year": "1959", "category": "medicine", "laureates": [{"id": "367", "firstname": "Severo", "surname": "Ochoa", "motivation": "\"for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid\"", "share": "2"}, {"id": "368", "firstname": "Arthur", "surname": "Kornberg", "motivation": "\"for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1959",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "630",
+					"firstname": "Salvatore",
+					"surname": "Quasimodo",
+					"motivation": "\"for his lyrical poetry, which with classical fire expresses the tragic experience of life in our own times\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1959",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "518",
+					"firstname": "Philip",
+					"surname": "Noel-Baker",
+					"motivation": "\"for his longstanding contribution to the cause of disarmament and peace\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1959",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "72",
+					"firstname": "Emilio",
+					"surname": "Segr\u00e8",
+					"motivation": "\"for their discovery of the antiproton\"",
+					"share": "2"
+				},
+				{
+					"id": "73",
+					"firstname": "Owen",
+					"surname": "Chamberlain",
+					"motivation": "\"for their discovery of the antiproton\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1959",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "367",
+					"firstname": "Severo",
+					"surname": "Ochoa",
+					"motivation": "\"for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid\"",
+					"share": "2"
+				},
+				{
+					"id": "368",
+					"firstname": "Arthur",
+					"surname": "Kornberg",
+					"motivation": "\"for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

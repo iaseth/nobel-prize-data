@@ -1,1 +1,54 @@
-{"prizes": [{"year": "1917", "category": "literature", "laureates": [{"id": "586", "firstname": "Karl", "surname": "Gjellerup", "motivation": "\"for his varied and rich poetry, which is inspired by lofty ideals\"", "share": "2"}, {"id": "587", "firstname": "Henrik", "surname": "Pontoppidan", "motivation": "\"for his authentic descriptions of present-day life in Denmark\"", "share": "2"}]}, {"year": "1917", "category": "peace", "laureates": [{"id": "482", "motivation": "\"for the efforts to take care of wounded soldiers and prisoners of war and their families\"", "share": "1", "firstname": "International Committee of the Red Cross"}]}, {"year": "1917", "category": "physics", "laureates": [{"id": "22", "firstname": "Charles Glover", "surname": "Barkla", "motivation": "\"for his discovery of the characteristic R&ouml;ntgen radiation of the elements\"", "share": "1"}]}, {"year": "1917", "category": "medicine", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}]}
+{
+	"prizes": [
+		{
+			"year": "1917",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "586",
+					"firstname": "Karl",
+					"surname": "Gjellerup",
+					"motivation": "\"for his varied and rich poetry, which is inspired by lofty ideals\"",
+					"share": "2"
+				},
+				{
+					"id": "587",
+					"firstname": "Henrik",
+					"surname": "Pontoppidan",
+					"motivation": "\"for his authentic descriptions of present-day life in Denmark\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1917",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "482",
+					"motivation": "\"for the efforts to take care of wounded soldiers and prisoners of war and their families\"",
+					"share": "1",
+					"firstname": "International Committee of the Red Cross"
+				}
+			]
+		},
+		{
+			"year": "1917",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "22",
+					"firstname": "Charles Glover",
+					"surname": "Barkla",
+					"motivation": "\"for his discovery of the characteristic R&ouml;ntgen radiation of the elements\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1917",
+			"category": "medicine",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		}
+	]
+}

@@ -1,1 +1,63 @@
-{"prizes": [{"year": "1961", "category": "literature", "laureates": [{"id": "633", "firstname": "Ivo", "surname": "Andric", "motivation": "\"for the epic force with which he has traced themes and depicted human destinies drawn from the history of his country\"", "share": "1"}]}, {"year": "1961", "category": "peace", "laureates": [{"id": "520", "firstname": "Dag", "surname": "Hammarskj\u00f6ld", "motivation": "\"for developing the UN into an effective and constructive international organization, capable of giving life to the principles and aims expressed in the UN Charter\"", "share": "1"}]}, {"year": "1961", "category": "physics", "laureates": [{"id": "75", "firstname": "Robert", "surname": "Hofstadter", "motivation": "\"for his pioneering studies of electron scattering in atomic nuclei and for his thereby achieved discoveries concerning the structure of the nucleons\"", "share": "2"}, {"id": "76", "firstname": "Rudolf", "surname": "M\u00f6ssbauer", "motivation": "\"for his researches concerning the resonance absorption of gamma radiation and his discovery in this connection of the effect which bears his name\"", "share": "2"}]}, {"year": "1961", "category": "medicine", "laureates": [{"id": "371", "firstname": "Georg", "surname": "von B\u00e9k\u00e9sy", "motivation": "\"for his discoveries of the physical mechanism of stimulation within the cochlea\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1961",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "633",
+					"firstname": "Ivo",
+					"surname": "Andric",
+					"motivation": "\"for the epic force with which he has traced themes and depicted human destinies drawn from the history of his country\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1961",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "520",
+					"firstname": "Dag",
+					"surname": "Hammarskj\u00f6ld",
+					"motivation": "\"for developing the UN into an effective and constructive international organization, capable of giving life to the principles and aims expressed in the UN Charter\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1961",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "75",
+					"firstname": "Robert",
+					"surname": "Hofstadter",
+					"motivation": "\"for his pioneering studies of electron scattering in atomic nuclei and for his thereby achieved discoveries concerning the structure of the nucleons\"",
+					"share": "2"
+				},
+				{
+					"id": "76",
+					"firstname": "Rudolf",
+					"surname": "M\u00f6ssbauer",
+					"motivation": "\"for his researches concerning the resonance absorption of gamma radiation and his discovery in this connection of the effect which bears his name\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1961",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "371",
+					"firstname": "Georg",
+					"surname": "von B\u00e9k\u00e9sy",
+					"motivation": "\"for his discoveries of the physical mechanism of stimulation within the cochlea\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

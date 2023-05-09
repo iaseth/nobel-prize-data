@@ -1,1 +1,104 @@
-{"prizes": [{"year": "2014", "category": "economics", "laureates": [{"id": "915", "firstname": "Jean", "surname": "Tirole", "motivation": "\"for his analysis of market power and regulation\"", "share": "1"}]}, {"year": "2014", "category": "literature", "laureates": [{"id": "912", "firstname": "Patrick", "surname": "Modiano", "motivation": "\"for the art of memory with which he has evoked the most ungraspable human destinies and\r\nuncovered the life-world of the occupation\"", "share": "1"}]}, {"year": "2014", "category": "peace", "laureates": [{"id": "913", "firstname": "Kailash", "surname": "Satyarthi", "motivation": "\"for their struggle against the suppression of children and young people and for the right of all children to education\"", "share": "2"}, {"id": "914", "firstname": "Malala", "surname": "Yousafzai", "motivation": "\"for their struggle against the suppression of children and young people and for the right of all children to education\"", "share": "2"}]}, {"year": "2014", "category": "physics", "laureates": [{"id": "906", "firstname": "Isamu", "surname": "Akasaki", "motivation": "\"for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources\"", "share": "3"}, {"id": "907", "firstname": "Hiroshi", "surname": "Amano", "motivation": "\"for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources\"", "share": "3"}, {"id": "908", "firstname": "Shuji", "surname": "Nakamura", "motivation": "\"for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources\"", "share": "3"}]}, {"year": "2014", "category": "medicine", "laureates": [{"id": "903", "firstname": "John", "surname": "O'Keefe", "motivation": "\"for their discoveries of cells that constitute a positioning system in the brain\"", "share": "2"}, {"id": "904", "firstname": "May-Britt", "surname": "Moser", "motivation": "\"for their discoveries of cells that constitute a positioning system in the brain\"", "share": "4"}, {"id": "905", "firstname": "Edvard I.", "surname": "Moser", "motivation": "\"for their discoveries of cells that constitute a positioning system in the brain\"", "share": "4"}]}]}
+{
+	"prizes": [
+		{
+			"year": "2014",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "915",
+					"firstname": "Jean",
+					"surname": "Tirole",
+					"motivation": "\"for his analysis of market power and regulation\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "2014",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "912",
+					"firstname": "Patrick",
+					"surname": "Modiano",
+					"motivation": "\"for the art of memory with which he has evoked the most ungraspable human destinies and\r\nuncovered the life-world of the occupation\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "2014",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "913",
+					"firstname": "Kailash",
+					"surname": "Satyarthi",
+					"motivation": "\"for their struggle against the suppression of children and young people and for the right of all children to education\"",
+					"share": "2"
+				},
+				{
+					"id": "914",
+					"firstname": "Malala",
+					"surname": "Yousafzai",
+					"motivation": "\"for their struggle against the suppression of children and young people and for the right of all children to education\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "2014",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "906",
+					"firstname": "Isamu",
+					"surname": "Akasaki",
+					"motivation": "\"for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources\"",
+					"share": "3"
+				},
+				{
+					"id": "907",
+					"firstname": "Hiroshi",
+					"surname": "Amano",
+					"motivation": "\"for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources\"",
+					"share": "3"
+				},
+				{
+					"id": "908",
+					"firstname": "Shuji",
+					"surname": "Nakamura",
+					"motivation": "\"for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources\"",
+					"share": "3"
+				}
+			]
+		},
+		{
+			"year": "2014",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "903",
+					"firstname": "John",
+					"surname": "O'Keefe",
+					"motivation": "\"for their discoveries of cells that constitute a positioning system in the brain\"",
+					"share": "2"
+				},
+				{
+					"id": "904",
+					"firstname": "May-Britt",
+					"surname": "Moser",
+					"motivation": "\"for their discoveries of cells that constitute a positioning system in the brain\"",
+					"share": "4"
+				},
+				{
+					"id": "905",
+					"firstname": "Edvard I.",
+					"surname": "Moser",
+					"motivation": "\"for their discoveries of cells that constitute a positioning system in the brain\"",
+					"share": "4"
+				}
+			]
+		}
+	]
+}

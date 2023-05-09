@@ -1,1 +1,32 @@
-{"prizes": [{"year": "1916", "category": "literature", "laureates": [{"id": "585", "firstname": "Verner", "surname": "von Heidenstam", "motivation": "\"in recognition of his significance as the leading representative of a new era in our literature\"", "share": "1"}]}, {"year": "1916", "category": "peace", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}, {"year": "1916", "category": "physics", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}, {"year": "1916", "category": "medicine", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}]}
+{
+	"prizes": [
+		{
+			"year": "1916",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "585",
+					"firstname": "Verner",
+					"surname": "von Heidenstam",
+					"motivation": "\"in recognition of his significance as the leading representative of a new era in our literature\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1916",
+			"category": "peace",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		},
+		{
+			"year": "1916",
+			"category": "physics",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		},
+		{
+			"year": "1916",
+			"category": "medicine",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		}
+	]
+}

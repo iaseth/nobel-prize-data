@@ -1,1 +1,103 @@
-{"prizes": [{"year": "2005", "category": "economics", "laureates": [{"id": "799", "firstname": "Robert J.", "surname": "Aumann", "motivation": "\"for having enhanced our understanding of conflict and cooperation through game-theory analysis\"", "share": "2"}, {"id": "800", "firstname": "Thomas C.", "surname": "Schelling", "motivation": "\"for having enhanced our understanding of conflict and cooperation through game-theory analysis\"", "share": "2"}]}, {"year": "2005", "category": "literature", "laureates": [{"id": "801", "firstname": "Harold", "surname": "Pinter", "motivation": "\"who in his plays uncovers the precipice under everyday prattle and forces entry into oppression's closed rooms\"", "share": "1"}]}, {"year": "2005", "category": "peace", "laureates": [{"id": "797", "motivation": "\"for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way\"", "share": "2", "firstname": "International Atomic Energy Agency"}, {"id": "798", "firstname": "Mohamed", "surname": "ElBaradei", "motivation": "\"for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way\"", "share": "2"}]}, {"year": "2005", "category": "physics", "laureates": [{"id": "791", "firstname": "Roy J.", "surname": "Glauber", "motivation": "\"for his contribution to the quantum theory of optical coherence\"", "share": "2"}, {"id": "792", "firstname": "John L.", "surname": "Hall", "motivation": "\"for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique\"", "share": "4"}, {"id": "793", "firstname": "Theodor W.", "surname": "H\u00e4nsch", "motivation": "\"for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique\"", "share": "4"}]}, {"year": "2005", "category": "medicine", "laureates": [{"id": "789", "firstname": "Barry J.", "surname": "Marshall", "motivation": "\"for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease\"", "share": "2"}, {"id": "790", "firstname": "J. Robin", "surname": "Warren", "motivation": "\"for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "2005",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "799",
+					"firstname": "Robert J.",
+					"surname": "Aumann",
+					"motivation": "\"for having enhanced our understanding of conflict and cooperation through game-theory analysis\"",
+					"share": "2"
+				},
+				{
+					"id": "800",
+					"firstname": "Thomas C.",
+					"surname": "Schelling",
+					"motivation": "\"for having enhanced our understanding of conflict and cooperation through game-theory analysis\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "2005",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "801",
+					"firstname": "Harold",
+					"surname": "Pinter",
+					"motivation": "\"who in his plays uncovers the precipice under everyday prattle and forces entry into oppression's closed rooms\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "2005",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "797",
+					"motivation": "\"for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way\"",
+					"share": "2",
+					"firstname": "International Atomic Energy Agency"
+				},
+				{
+					"id": "798",
+					"firstname": "Mohamed",
+					"surname": "ElBaradei",
+					"motivation": "\"for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "2005",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "791",
+					"firstname": "Roy J.",
+					"surname": "Glauber",
+					"motivation": "\"for his contribution to the quantum theory of optical coherence\"",
+					"share": "2"
+				},
+				{
+					"id": "792",
+					"firstname": "John L.",
+					"surname": "Hall",
+					"motivation": "\"for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique\"",
+					"share": "4"
+				},
+				{
+					"id": "793",
+					"firstname": "Theodor W.",
+					"surname": "H\u00e4nsch",
+					"motivation": "\"for their contributions to the development of laser-based precision spectroscopy, including the optical frequency comb technique\"",
+					"share": "4"
+				}
+			]
+		},
+		{
+			"year": "2005",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "789",
+					"firstname": "Barry J.",
+					"surname": "Marshall",
+					"motivation": "\"for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease\"",
+					"share": "2"
+				},
+				{
+					"id": "790",
+					"firstname": "J. Robin",
+					"surname": "Warren",
+					"motivation": "\"for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

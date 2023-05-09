@@ -1,1 +1,47 @@
-{"prizes": [{"year": "1915", "category": "literature", "laureates": [{"id": "584", "firstname": "Romain", "surname": "Rolland", "motivation": "\"as a tribute to the lofty idealism of his literary production and to the sympathy and love of truth with which he has described different types of human beings\"", "share": "1"}]}, {"year": "1915", "category": "peace", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}, {"year": "1915", "category": "physics", "laureates": [{"id": "20", "firstname": "William", "surname": "Bragg", "motivation": "\"for their services in the analysis of crystal structure by means of X-rays\"", "share": "2"}, {"id": "21", "firstname": "Lawrence", "surname": "Bragg", "motivation": "\"for their services in the analysis of crystal structure by means of X-rays\"", "share": "2"}]}, {"year": "1915", "category": "medicine", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}]}
+{
+	"prizes": [
+		{
+			"year": "1915",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "584",
+					"firstname": "Romain",
+					"surname": "Rolland",
+					"motivation": "\"as a tribute to the lofty idealism of his literary production and to the sympathy and love of truth with which he has described different types of human beings\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1915",
+			"category": "peace",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		},
+		{
+			"year": "1915",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "20",
+					"firstname": "William",
+					"surname": "Bragg",
+					"motivation": "\"for their services in the analysis of crystal structure by means of X-rays\"",
+					"share": "2"
+				},
+				{
+					"id": "21",
+					"firstname": "Lawrence",
+					"surname": "Bragg",
+					"motivation": "\"for their services in the analysis of crystal structure by means of X-rays\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1915",
+			"category": "medicine",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		}
+	]
+}

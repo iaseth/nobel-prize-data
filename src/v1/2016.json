@@ -1,1 +1,90 @@
-{"prizes": [{"year": "2016", "category": "economics", "laureates": [{"id": "935", "firstname": "Oliver", "surname": "Hart", "motivation": "\"for their contributions to contract theory\"", "share": "2"}, {"id": "936", "firstname": "Bengt", "surname": "Holmstr\u00f6m", "motivation": "\"for their contributions to contract theory\"", "share": "2"}]}, {"year": "2016", "category": "literature", "laureates": [{"id": "937", "firstname": "Bob", "surname": "Dylan", "motivation": "\"for having created new poetic expressions within the great American song tradition\"", "share": "1"}]}, {"year": "2016", "category": "peace", "laureates": [{"id": "934", "firstname": "Juan Manuel", "surname": "Santos", "motivation": "\"for his resolute efforts to bring the country's more than 50-year-long civil war to an end\"", "share": "1"}]}, {"year": "2016", "category": "physics", "laureates": [{"id": "928", "firstname": "David J.", "surname": "Thouless", "motivation": "\"for theoretical discoveries of topological phase transitions and topological phases of matter\"", "share": "2"}, {"id": "929", "firstname": "F. Duncan M.", "surname": "Haldane", "motivation": "\"for theoretical discoveries of topological phase transitions and topological phases of matter\"", "share": "4"}, {"id": "930", "firstname": "J. Michael", "surname": "Kosterlitz", "motivation": "\"for theoretical discoveries of topological phase transitions and topological phases of matter\"", "share": "4"}]}, {"year": "2016", "category": "medicine", "laureates": [{"id": "927", "firstname": "Yoshinori", "surname": "Ohsumi", "motivation": "\"for his discoveries of mechanisms for autophagy\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "2016",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "935",
+					"firstname": "Oliver",
+					"surname": "Hart",
+					"motivation": "\"for their contributions to contract theory\"",
+					"share": "2"
+				},
+				{
+					"id": "936",
+					"firstname": "Bengt",
+					"surname": "Holmstr\u00f6m",
+					"motivation": "\"for their contributions to contract theory\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "2016",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "937",
+					"firstname": "Bob",
+					"surname": "Dylan",
+					"motivation": "\"for having created new poetic expressions within the great American song tradition\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "2016",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "934",
+					"firstname": "Juan Manuel",
+					"surname": "Santos",
+					"motivation": "\"for his resolute efforts to bring the country's more than 50-year-long civil war to an end\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "2016",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "928",
+					"firstname": "David J.",
+					"surname": "Thouless",
+					"motivation": "\"for theoretical discoveries of topological phase transitions and topological phases of matter\"",
+					"share": "2"
+				},
+				{
+					"id": "929",
+					"firstname": "F. Duncan M.",
+					"surname": "Haldane",
+					"motivation": "\"for theoretical discoveries of topological phase transitions and topological phases of matter\"",
+					"share": "4"
+				},
+				{
+					"id": "930",
+					"firstname": "J. Michael",
+					"surname": "Kosterlitz",
+					"motivation": "\"for theoretical discoveries of topological phase transitions and topological phases of matter\"",
+					"share": "4"
+				}
+			]
+		},
+		{
+			"year": "2016",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "927",
+					"firstname": "Yoshinori",
+					"surname": "Ohsumi",
+					"motivation": "\"for his discoveries of mechanisms for autophagy\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

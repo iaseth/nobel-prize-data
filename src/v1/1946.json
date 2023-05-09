@@ -1,1 +1,63 @@
-{"prizes": [{"year": "1946", "category": "literature", "laureates": [{"id": "617", "firstname": "Hermann", "surname": "Hesse", "motivation": "\"for his inspired writings which, while growing in boldness and penetration, exemplify the classical humanitarian ideals and high qualities of style\"", "share": "1"}]}, {"year": "1946", "category": "peace", "laureates": [{"id": "506", "firstname": "Emily Greene", "surname": "Balch", "motivation": "\"for her lifelong work for the cause of peace\"", "share": "2"}, {"id": "507", "firstname": "John R.", "surname": "Mott", "motivation": "\"for his contribution to the creation of a peace-promoting religious brotherhood across national boundaries\"", "share": "2"}]}, {"year": "1946", "category": "physics", "laureates": [{"id": "51", "firstname": "Percy W.", "surname": "Bridgman", "motivation": "\"for the invention of an apparatus to produce extremely high pressures, and for the discoveries he made therewith in the field of high pressure physics\"", "share": "1"}]}, {"year": "1946", "category": "medicine", "laureates": [{"id": "342", "firstname": "Hermann J.", "surname": "Muller", "motivation": "\"for the discovery of the production of mutations by means of X-ray irradiation\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1946",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "617",
+					"firstname": "Hermann",
+					"surname": "Hesse",
+					"motivation": "\"for his inspired writings which, while growing in boldness and penetration, exemplify the classical humanitarian ideals and high qualities of style\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1946",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "506",
+					"firstname": "Emily Greene",
+					"surname": "Balch",
+					"motivation": "\"for her lifelong work for the cause of peace\"",
+					"share": "2"
+				},
+				{
+					"id": "507",
+					"firstname": "John R.",
+					"surname": "Mott",
+					"motivation": "\"for his contribution to the creation of a peace-promoting religious brotherhood across national boundaries\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1946",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "51",
+					"firstname": "Percy W.",
+					"surname": "Bridgman",
+					"motivation": "\"for the invention of an apparatus to produce extremely high pressures, and for the discoveries he made therewith in the field of high pressure physics\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1946",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "342",
+					"firstname": "Hermann J.",
+					"surname": "Muller",
+					"motivation": "\"for the discovery of the production of mutations by means of X-ray irradiation\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

@@ -1,1 +1,55 @@
-{"prizes": [{"year": "1938", "category": "literature", "laureates": [{"id": "610", "firstname": "Pearl", "surname": "Buck", "motivation": "\"for her rich and truly epic descriptions of peasant life in China and for her biographical masterpieces\"", "share": "1"}]}, {"year": "1938", "category": "peace", "laureates": [{"id": "503", "motivation": "\"for having carried on the work of Fridtjof Nansen to the benefit of refugees across Europe\"", "share": "1", "firstname": "Nansen International Office for Refugees"}]}, {"year": "1938", "category": "physics", "laureates": [{"id": "46", "firstname": "Enrico", "surname": "Fermi", "motivation": "\"for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons\"", "share": "1"}]}, {"year": "1938", "category": "medicine", "laureates": [{"id": "333", "firstname": "Corneille", "surname": "Heymans", "motivation": "\"for the discovery of the role played by the sinus and aortic mechanisms in the regulation of respiration\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1938",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "610",
+					"firstname": "Pearl",
+					"surname": "Buck",
+					"motivation": "\"for her rich and truly epic descriptions of peasant life in China and for her biographical masterpieces\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1938",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "503",
+					"motivation": "\"for having carried on the work of Fridtjof Nansen to the benefit of refugees across Europe\"",
+					"share": "1",
+					"firstname": "Nansen International Office for Refugees"
+				}
+			]
+		},
+		{
+			"year": "1938",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "46",
+					"firstname": "Enrico",
+					"surname": "Fermi",
+					"motivation": "\"for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1938",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "333",
+					"firstname": "Corneille",
+					"surname": "Heymans",
+					"motivation": "\"for the discovery of the role played by the sinus and aortic mechanisms in the regulation of respiration\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

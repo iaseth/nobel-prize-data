@@ -1,1 +1,62 @@
-{"prizes": [{"year": "1944", "category": "literature", "laureates": [{"id": "614", "firstname": "Johannes V.", "surname": "Jensen", "motivation": "\"for the rare strength and fertility of his poetic imagination with which is combined an intellectual curiosity of wide scope and a bold, freshly creative style\"", "share": "1"}]}, {"year": "1944", "category": "peace", "laureates": [{"id": "482", "motivation": "\"for the great work it has performed during the war on behalf of humanity\"", "share": "1", "firstname": "International Committee of the Red Cross"}]}, {"year": "1944", "category": "physics", "laureates": [{"id": "49", "firstname": "Isidor Isaac", "surname": "Rabi", "motivation": "\"for his resonance method for recording the magnetic properties of atomic nuclei\"", "share": "1"}]}, {"year": "1944", "category": "medicine", "laureates": [{"id": "337", "firstname": "Joseph", "surname": "Erlanger", "motivation": "\"for their discoveries relating to the highly differentiated functions of single nerve fibres\"", "share": "2"}, {"id": "338", "firstname": "Herbert S.", "surname": "Gasser", "motivation": "\"for their discoveries relating to the highly differentiated functions of single nerve fibres\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1944",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "614",
+					"firstname": "Johannes V.",
+					"surname": "Jensen",
+					"motivation": "\"for the rare strength and fertility of his poetic imagination with which is combined an intellectual curiosity of wide scope and a bold, freshly creative style\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1944",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "482",
+					"motivation": "\"for the great work it has performed during the war on behalf of humanity\"",
+					"share": "1",
+					"firstname": "International Committee of the Red Cross"
+				}
+			]
+		},
+		{
+			"year": "1944",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "49",
+					"firstname": "Isidor Isaac",
+					"surname": "Rabi",
+					"motivation": "\"for his resonance method for recording the magnetic properties of atomic nuclei\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1944",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "337",
+					"firstname": "Joseph",
+					"surname": "Erlanger",
+					"motivation": "\"for their discoveries relating to the highly differentiated functions of single nerve fibres\"",
+					"share": "2"
+				},
+				{
+					"id": "338",
+					"firstname": "Herbert S.",
+					"surname": "Gasser",
+					"motivation": "\"for their discoveries relating to the highly differentiated functions of single nerve fibres\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

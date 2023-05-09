@@ -1,1 +1,70 @@
-{"prizes": [{"year": "1968", "category": "literature", "laureates": [{"id": "642", "firstname": "Yasunari", "surname": "Kawabata", "motivation": "\"for his narrative mastery, which with great sensibility expresses the essence of the Japanese mind\"", "share": "1"}]}, {"year": "1968", "category": "peace", "laureates": [{"id": "526", "firstname": "Ren\u00e9", "surname": "Cassin", "motivation": "\"for his struggle to ensure the rights of man as stipulated in the UN Declaration\"", "share": "1"}]}, {"year": "1968", "category": "physics", "laureates": [{"id": "89", "firstname": "Luis", "surname": "Alvarez", "motivation": "\"for his decisive contributions to elementary particle physics, in particular the discovery of a large number of resonance states, made possible through his development of the technique of using hydrogen bubble chamber and data analysis\"", "share": "1"}]}, {"year": "1968", "category": "medicine", "laureates": [{"id": "388", "firstname": "Robert W.", "surname": "Holley", "motivation": "\"for their interpretation of the genetic code and its function in protein synthesis\"", "share": "3"}, {"id": "389", "firstname": "H. Gobind", "surname": "Khorana", "motivation": "\"for their interpretation of the genetic code and its function in protein synthesis\"", "share": "3"}, {"id": "390", "firstname": "Marshall W.", "surname": "Nirenberg", "motivation": "\"for their interpretation of the genetic code and its function in protein synthesis\"", "share": "3"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1968",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "642",
+					"firstname": "Yasunari",
+					"surname": "Kawabata",
+					"motivation": "\"for his narrative mastery, which with great sensibility expresses the essence of the Japanese mind\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1968",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "526",
+					"firstname": "Ren\u00e9",
+					"surname": "Cassin",
+					"motivation": "\"for his struggle to ensure the rights of man as stipulated in the UN Declaration\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1968",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "89",
+					"firstname": "Luis",
+					"surname": "Alvarez",
+					"motivation": "\"for his decisive contributions to elementary particle physics, in particular the discovery of a large number of resonance states, made possible through his development of the technique of using hydrogen bubble chamber and data analysis\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1968",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "388",
+					"firstname": "Robert W.",
+					"surname": "Holley",
+					"motivation": "\"for their interpretation of the genetic code and its function in protein synthesis\"",
+					"share": "3"
+				},
+				{
+					"id": "389",
+					"firstname": "H. Gobind",
+					"surname": "Khorana",
+					"motivation": "\"for their interpretation of the genetic code and its function in protein synthesis\"",
+					"share": "3"
+				},
+				{
+					"id": "390",
+					"firstname": "Marshall W.",
+					"surname": "Nirenberg",
+					"motivation": "\"for their interpretation of the genetic code and its function in protein synthesis\"",
+					"share": "3"
+				}
+			]
+		}
+	]
+}

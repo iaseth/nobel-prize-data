@@ -1,1 +1,63 @@
-{"prizes": [{"year": "1926", "category": "literature", "laureates": [{"id": "597", "firstname": "Grazia", "surname": "Deledda", "motivation": "\"for her idealistically inspired writings which with plastic clarity picture the life on her native island and with depth and sympathy deal with human problems in general\"", "share": "1"}]}, {"year": "1926", "category": "peace", "laureates": [{"id": "490", "firstname": "Aristide", "surname": "Briand", "motivation": "\"for their crucial role in bringing about the Locarno Treaty\"", "share": "2"}, {"id": "491", "firstname": "Gustav", "surname": "Stresemann", "motivation": "\"for their crucial role in bringing about the Locarno Treaty\"", "share": "2"}]}, {"year": "1926", "category": "physics", "laureates": [{"id": "32", "firstname": "Jean Baptiste", "surname": "Perrin", "motivation": "\"for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium\"", "share": "1"}]}, {"year": "1926", "category": "medicine", "laureates": [{"id": "316", "firstname": "Johannes", "surname": "Fibiger", "motivation": "\"for his discovery of the Spiroptera carcinoma\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1926",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "597",
+					"firstname": "Grazia",
+					"surname": "Deledda",
+					"motivation": "\"for her idealistically inspired writings which with plastic clarity picture the life on her native island and with depth and sympathy deal with human problems in general\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1926",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "490",
+					"firstname": "Aristide",
+					"surname": "Briand",
+					"motivation": "\"for their crucial role in bringing about the Locarno Treaty\"",
+					"share": "2"
+				},
+				{
+					"id": "491",
+					"firstname": "Gustav",
+					"surname": "Stresemann",
+					"motivation": "\"for their crucial role in bringing about the Locarno Treaty\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1926",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "32",
+					"firstname": "Jean Baptiste",
+					"surname": "Perrin",
+					"motivation": "\"for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1926",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "316",
+					"firstname": "Johannes",
+					"surname": "Fibiger",
+					"motivation": "\"for his discovery of the Spiroptera carcinoma\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

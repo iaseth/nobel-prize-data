@@ -1,1 +1,89 @@
-{"prizes": [{"year": "2012", "category": "economics", "laureates": [{"id": "882", "firstname": "Alvin E.", "surname": "Roth", "motivation": "\"for the theory of stable allocations and the practice of market design\"", "share": "2"}, {"id": "883", "firstname": "Lloyd S.", "surname": "Shapley", "motivation": "\"for the theory of stable allocations and the practice of market design\"", "share": "2"}]}, {"year": "2012", "category": "literature", "laureates": [{"id": "880", "firstname": "Mo", "surname": "Yan", "motivation": "\"who with hallucinatory realism merges folk tales, history and the contemporary\"", "share": "1"}]}, {"year": "2012", "category": "peace", "laureates": [{"id": "881", "motivation": "\"for over six decades contributed to the advancement of peace and reconciliation, democracy and human rights in Europe\"", "share": "1", "firstname": "European Union"}]}, {"year": "2012", "category": "physics", "laureates": [{"id": "876", "firstname": "Serge", "surname": "Haroche", "motivation": "\"for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems\"", "share": "2"}, {"id": "877", "firstname": "David J.", "surname": "Wineland", "motivation": "\"for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems\"", "share": "2"}]}, {"year": "2012", "category": "medicine", "laureates": [{"id": "874", "firstname": "Sir John B.", "surname": "Gurdon", "motivation": "\"for the discovery that mature cells can be reprogrammed to become pluripotent\"", "share": "2"}, {"id": "875", "firstname": "Shinya", "surname": "Yamanaka", "motivation": "\"for the discovery that mature cells can be reprogrammed to become pluripotent\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "2012",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "882",
+					"firstname": "Alvin E.",
+					"surname": "Roth",
+					"motivation": "\"for the theory of stable allocations and the practice of market design\"",
+					"share": "2"
+				},
+				{
+					"id": "883",
+					"firstname": "Lloyd S.",
+					"surname": "Shapley",
+					"motivation": "\"for the theory of stable allocations and the practice of market design\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "2012",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "880",
+					"firstname": "Mo",
+					"surname": "Yan",
+					"motivation": "\"who with hallucinatory realism merges folk tales, history and the contemporary\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "2012",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "881",
+					"motivation": "\"for over six decades contributed to the advancement of peace and reconciliation, democracy and human rights in Europe\"",
+					"share": "1",
+					"firstname": "European Union"
+				}
+			]
+		},
+		{
+			"year": "2012",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "876",
+					"firstname": "Serge",
+					"surname": "Haroche",
+					"motivation": "\"for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems\"",
+					"share": "2"
+				},
+				{
+					"id": "877",
+					"firstname": "David J.",
+					"surname": "Wineland",
+					"motivation": "\"for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "2012",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "874",
+					"firstname": "Sir John B.",
+					"surname": "Gurdon",
+					"motivation": "\"for the discovery that mature cells can be reprogrammed to become pluripotent\"",
+					"share": "2"
+				},
+				{
+					"id": "875",
+					"firstname": "Shinya",
+					"surname": "Yamanaka",
+					"motivation": "\"for the discovery that mature cells can be reprogrammed to become pluripotent\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

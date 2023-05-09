@@ -1,1 +1,90 @@
-{"prizes": [{"year": "1976", "category": "economics", "laureates": [{"id": "688", "firstname": "Milton", "surname": "Friedman", "motivation": "\"for his achievements in the fields of consumption analysis, monetary history and theory and for his demonstration of the complexity of stabilization policy\"", "share": "1"}]}, {"year": "1976", "category": "literature", "laureates": [{"id": "652", "firstname": "Saul", "surname": "Bellow", "motivation": "\"for the human understanding and subtle analysis of contemporary culture that are combined in his work\"", "share": "1"}]}, {"year": "1976", "category": "peace", "laureates": [{"id": "535", "firstname": "Betty", "surname": "Williams", "motivation": "\"for the courageous efforts in founding a movement to put an end to the violent conflict in Northern Ireland\"", "share": "2"}, {"id": "536", "firstname": "Mairead", "surname": "Corrigan", "motivation": "\"for the courageous efforts in founding a movement to put an end to the violent conflict in Northern Ireland\"", "share": "2"}]}, {"year": "1976", "category": "physics", "laureates": [{"id": "105", "firstname": "Burton", "surname": "Richter", "motivation": "\"for their pioneering work in the discovery of a heavy elementary particle of a new kind\"", "share": "2"}, {"id": "106", "firstname": "Samuel C.C.", "surname": "Ting", "motivation": "\"for their pioneering work in the discovery of a heavy elementary particle of a new kind\"", "share": "2"}]}, {"year": "1976", "category": "medicine", "laureates": [{"id": "409", "firstname": "Baruch S.", "surname": "Blumberg", "motivation": "\"for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases\"", "share": "2"}, {"id": "410", "firstname": "D. Carleton", "surname": "Gajdusek", "motivation": "\"for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1976",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "688",
+					"firstname": "Milton",
+					"surname": "Friedman",
+					"motivation": "\"for his achievements in the fields of consumption analysis, monetary history and theory and for his demonstration of the complexity of stabilization policy\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1976",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "652",
+					"firstname": "Saul",
+					"surname": "Bellow",
+					"motivation": "\"for the human understanding and subtle analysis of contemporary culture that are combined in his work\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1976",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "535",
+					"firstname": "Betty",
+					"surname": "Williams",
+					"motivation": "\"for the courageous efforts in founding a movement to put an end to the violent conflict in Northern Ireland\"",
+					"share": "2"
+				},
+				{
+					"id": "536",
+					"firstname": "Mairead",
+					"surname": "Corrigan",
+					"motivation": "\"for the courageous efforts in founding a movement to put an end to the violent conflict in Northern Ireland\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1976",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "105",
+					"firstname": "Burton",
+					"surname": "Richter",
+					"motivation": "\"for their pioneering work in the discovery of a heavy elementary particle of a new kind\"",
+					"share": "2"
+				},
+				{
+					"id": "106",
+					"firstname": "Samuel C.C.",
+					"surname": "Ting",
+					"motivation": "\"for their pioneering work in the discovery of a heavy elementary particle of a new kind\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1976",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "409",
+					"firstname": "Baruch S.",
+					"surname": "Blumberg",
+					"motivation": "\"for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases\"",
+					"share": "2"
+				},
+				{
+					"id": "410",
+					"firstname": "D. Carleton",
+					"surname": "Gajdusek",
+					"motivation": "\"for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

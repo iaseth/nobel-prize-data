@@ -1,1 +1,96 @@
-{"prizes": [{"year": "1981", "category": "economics", "laureates": [{"id": "695", "firstname": "James", "surname": "Tobin", "motivation": "\"for his analysis of financial markets and their relations to expenditure decisions, employment, production and prices\"", "share": "1"}]}, {"year": "1981", "category": "literature", "laureates": [{"id": "658", "firstname": "Elias", "surname": "Canetti", "motivation": "\"for writings marked by a broad outlook, a wealth of ideas and artistic power\"", "share": "1"}]}, {"year": "1981", "category": "peace", "laureates": [{"id": "515", "motivation": "\"for promoting the fundamental rights of refugees\"", "share": "1", "firstname": "Office of the United Nations High Commissioner for Refugees"}]}, {"year": "1981", "category": "physics", "laureates": [{"id": "118", "firstname": "Nicolaas", "surname": "Bloembergen", "motivation": "\"for their contribution to the development of laser spectroscopy\"", "share": "4"}, {"id": "119", "firstname": "Arthur L.", "surname": "Schawlow", "motivation": "\"for their contribution to the development of laser spectroscopy\"", "share": "4"}, {"id": "120", "firstname": "Kai M.", "surname": "Siegbahn", "motivation": "\"for his contribution to the development of high-resolution electron spectroscopy\"", "share": "2"}]}, {"year": "1981", "category": "medicine", "laureates": [{"id": "422", "firstname": "Roger W.", "surname": "Sperry", "motivation": "\"for his discoveries concerning the functional specialization of the cerebral hemispheres\"", "share": "2"}, {"id": "423", "firstname": "David H.", "surname": "Hubel", "motivation": "\"for their discoveries concerning information processing in the visual system\"", "share": "4"}, {"id": "424", "firstname": "Torsten N.", "surname": "Wiesel", "motivation": "\"for their discoveries concerning information processing in the visual system\"", "share": "4"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1981",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "695",
+					"firstname": "James",
+					"surname": "Tobin",
+					"motivation": "\"for his analysis of financial markets and their relations to expenditure decisions, employment, production and prices\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1981",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "658",
+					"firstname": "Elias",
+					"surname": "Canetti",
+					"motivation": "\"for writings marked by a broad outlook, a wealth of ideas and artistic power\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1981",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "515",
+					"motivation": "\"for promoting the fundamental rights of refugees\"",
+					"share": "1",
+					"firstname": "Office of the United Nations High Commissioner for Refugees"
+				}
+			]
+		},
+		{
+			"year": "1981",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "118",
+					"firstname": "Nicolaas",
+					"surname": "Bloembergen",
+					"motivation": "\"for their contribution to the development of laser spectroscopy\"",
+					"share": "4"
+				},
+				{
+					"id": "119",
+					"firstname": "Arthur L.",
+					"surname": "Schawlow",
+					"motivation": "\"for their contribution to the development of laser spectroscopy\"",
+					"share": "4"
+				},
+				{
+					"id": "120",
+					"firstname": "Kai M.",
+					"surname": "Siegbahn",
+					"motivation": "\"for his contribution to the development of high-resolution electron spectroscopy\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1981",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "422",
+					"firstname": "Roger W.",
+					"surname": "Sperry",
+					"motivation": "\"for his discoveries concerning the functional specialization of the cerebral hemispheres\"",
+					"share": "2"
+				},
+				{
+					"id": "423",
+					"firstname": "David H.",
+					"surname": "Hubel",
+					"motivation": "\"for their discoveries concerning information processing in the visual system\"",
+					"share": "4"
+				},
+				{
+					"id": "424",
+					"firstname": "Torsten N.",
+					"surname": "Wiesel",
+					"motivation": "\"for their discoveries concerning information processing in the visual system\"",
+					"share": "4"
+				}
+			]
+		}
+	]
+}

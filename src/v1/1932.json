@@ -1,1 +1,55 @@
-{"prizes": [{"year": "1932", "category": "literature", "laureates": [{"id": "605", "firstname": "John", "surname": "Galsworthy", "motivation": "\"for his distinguished art of narration which takes its highest form in <I>The Forsyte Saga</I>\"", "share": "1"}]}, {"year": "1932", "category": "peace", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}, {"year": "1932", "category": "physics", "laureates": [{"id": "38", "firstname": "Werner", "surname": "Heisenberg", "motivation": "\"for the creation of quantum mechanics, the application of which has, inter alia, led to the discovery of the allotropic forms of hydrogen\"", "share": "1"}]}, {"year": "1932", "category": "medicine", "laureates": [{"id": "323", "firstname": "Sir Charles", "surname": "Sherrington", "motivation": "\"for their discoveries regarding the functions of neurons\"", "share": "2"}, {"id": "324", "firstname": "Edgar", "surname": "Adrian", "motivation": "\"for their discoveries regarding the functions of neurons\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1932",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "605",
+					"firstname": "John",
+					"surname": "Galsworthy",
+					"motivation": "\"for his distinguished art of narration which takes its highest form in <I>The Forsyte Saga</I>\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1932",
+			"category": "peace",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		},
+		{
+			"year": "1932",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "38",
+					"firstname": "Werner",
+					"surname": "Heisenberg",
+					"motivation": "\"for the creation of quantum mechanics, the application of which has, inter alia, led to the discovery of the allotropic forms of hydrogen\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1932",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "323",
+					"firstname": "Sir Charles",
+					"surname": "Sherrington",
+					"motivation": "\"for their discoveries regarding the functions of neurons\"",
+					"share": "2"
+				},
+				{
+					"id": "324",
+					"firstname": "Edgar",
+					"surname": "Adrian",
+					"motivation": "\"for their discoveries regarding the functions of neurons\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

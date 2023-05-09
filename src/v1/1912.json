@@ -1,1 +1,56 @@
-{"prizes": [{"year": "1912", "category": "literature", "laureates": [{"id": "582", "firstname": "Gerhart", "surname": "Hauptmann", "motivation": "\"primarily in recognition of his fruitful, varied and outstanding production in the realm of dramatic art\"", "share": "1"}]}, {"year": "1912", "category": "peace", "laureates": [{"id": "480", "firstname": "Elihu", "surname": "Root", "motivation": "\"for bringing about better understanding between the countries of North and South America and initiating important arbitration agreements between the United States and other countries\"", "share": "1"}]}, {"year": "1912", "category": "physics", "laureates": [{"id": "17", "firstname": "Gustaf", "surname": "Dal\u00e9n", "motivation": "\"for his invention of automatic regulators for use in conjunction with gas accumulators for illuminating lighthouses and buoys\"", "share": "1"}]}, {"year": "1912", "category": "medicine", "laureates": [{"id": "306", "firstname": "Alexis", "surname": "Carrel", "motivation": "\"in recognition of his work on vascular suture and the transplantation of blood vessels and organs\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1912",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "582",
+					"firstname": "Gerhart",
+					"surname": "Hauptmann",
+					"motivation": "\"primarily in recognition of his fruitful, varied and outstanding production in the realm of dramatic art\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1912",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "480",
+					"firstname": "Elihu",
+					"surname": "Root",
+					"motivation": "\"for bringing about better understanding between the countries of North and South America and initiating important arbitration agreements between the United States and other countries\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1912",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "17",
+					"firstname": "Gustaf",
+					"surname": "Dal\u00e9n",
+					"motivation": "\"for his invention of automatic regulators for use in conjunction with gas accumulators for illuminating lighthouses and buoys\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1912",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "306",
+					"firstname": "Alexis",
+					"surname": "Carrel",
+					"motivation": "\"in recognition of his work on vascular suture and the transplantation of blood vessels and organs\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

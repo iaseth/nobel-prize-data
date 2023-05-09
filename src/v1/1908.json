@@ -1,1 +1,70 @@
-{"prizes": [{"year": "1908", "category": "literature", "laureates": [{"id": "578", "firstname": "Rudolf", "surname": "Eucken", "motivation": "\"in recognition of his earnest search for truth, his penetrating power of thought, his wide range of vision, and the warmth and strength in presentation with which in his numerous works he has vindicated and developed an idealistic philosophy of life\"", "share": "1"}]}, {"year": "1908", "category": "peace", "laureates": [{"id": "473", "firstname": "Klas Pontus", "surname": "Arnoldson", "motivation": "\"for their long time work for the cause of peace as politicians, peace society leaders, orators and authors\"", "share": "2"}, {"id": "474", "firstname": "Fredrik", "surname": "Bajer", "motivation": "\"for their long time work for the cause of peace as politicians, peace society leaders, orators and authors\"", "share": "2"}]}, {"year": "1908", "category": "physics", "laureates": [{"id": "12", "firstname": "Gabriel", "surname": "Lippmann", "motivation": "\"for his method of reproducing colours photographically based on the phenomenon of interference\"", "share": "1"}]}, {"year": "1908", "category": "medicine", "laureates": [{"id": "301", "firstname": "Ilya", "surname": "Mechnikov", "motivation": "\"in recognition of their work on immunity\"", "share": "2"}, {"id": "302", "firstname": "Paul", "surname": "Ehrlich", "motivation": "\"in recognition of their work on immunity\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1908",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "578",
+					"firstname": "Rudolf",
+					"surname": "Eucken",
+					"motivation": "\"in recognition of his earnest search for truth, his penetrating power of thought, his wide range of vision, and the warmth and strength in presentation with which in his numerous works he has vindicated and developed an idealistic philosophy of life\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1908",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "473",
+					"firstname": "Klas Pontus",
+					"surname": "Arnoldson",
+					"motivation": "\"for their long time work for the cause of peace as politicians, peace society leaders, orators and authors\"",
+					"share": "2"
+				},
+				{
+					"id": "474",
+					"firstname": "Fredrik",
+					"surname": "Bajer",
+					"motivation": "\"for their long time work for the cause of peace as politicians, peace society leaders, orators and authors\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1908",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "12",
+					"firstname": "Gabriel",
+					"surname": "Lippmann",
+					"motivation": "\"for his method of reproducing colours photographically based on the phenomenon of interference\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1908",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "301",
+					"firstname": "Ilya",
+					"surname": "Mechnikov",
+					"motivation": "\"in recognition of their work on immunity\"",
+					"share": "2"
+				},
+				{
+					"id": "302",
+					"firstname": "Paul",
+					"surname": "Ehrlich",
+					"motivation": "\"in recognition of their work on immunity\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

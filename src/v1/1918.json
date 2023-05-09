@@ -1,1 +1,32 @@
-{"prizes": [{"year": "1918", "category": "literature", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}, {"year": "1918", "category": "peace", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}, {"year": "1918", "category": "physics", "laureates": [{"id": "23", "firstname": "Max", "surname": "Planck", "motivation": "\"in recognition of the services he rendered to the advancement of Physics by his discovery of energy quanta\"", "share": "1"}]}, {"year": "1918", "category": "medicine", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}]}
+{
+	"prizes": [
+		{
+			"year": "1918",
+			"category": "literature",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		},
+		{
+			"year": "1918",
+			"category": "peace",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		},
+		{
+			"year": "1918",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "23",
+					"firstname": "Max",
+					"surname": "Planck",
+					"motivation": "\"in recognition of the services he rendered to the advancement of Physics by his discovery of energy quanta\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1918",
+			"category": "medicine",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		}
+	]
+}

@@ -1,1 +1,55 @@
-{"prizes": [{"year": "1923", "category": "literature", "laureates": [{"id": "593", "firstname": "William Butler", "surname": "Yeats", "motivation": "\"for his always inspired poetry, which in a highly artistic form gives expression to the spirit of a whole nation\"", "share": "1"}]}, {"year": "1923", "category": "peace", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}, {"year": "1923", "category": "physics", "laureates": [{"id": "28", "firstname": "Robert A.", "surname": "Millikan", "motivation": "\"for his work on the elementary charge of electricity and on the photoelectric effect\"", "share": "1"}]}, {"year": "1923", "category": "medicine", "laureates": [{"id": "313", "firstname": "Frederick G.", "surname": "Banting", "motivation": "\"for the discovery of insulin\"", "share": "2"}, {"id": "314", "firstname": "John", "surname": "Macleod", "motivation": "\"for the discovery of insulin\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1923",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "593",
+					"firstname": "William Butler",
+					"surname": "Yeats",
+					"motivation": "\"for his always inspired poetry, which in a highly artistic form gives expression to the spirit of a whole nation\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1923",
+			"category": "peace",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		},
+		{
+			"year": "1923",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "28",
+					"firstname": "Robert A.",
+					"surname": "Millikan",
+					"motivation": "\"for his work on the elementary charge of electricity and on the photoelectric effect\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1923",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "313",
+					"firstname": "Frederick G.",
+					"surname": "Banting",
+					"motivation": "\"for the discovery of insulin\"",
+					"share": "2"
+				},
+				{
+					"id": "314",
+					"firstname": "John",
+					"surname": "Macleod",
+					"motivation": "\"for the discovery of insulin\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

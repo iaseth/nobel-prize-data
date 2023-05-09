@@ -1,1 +1,97 @@
-{"prizes": [{"year": "2008", "category": "economics", "laureates": [{"id": "834", "firstname": "Paul", "surname": "Krugman", "motivation": "\"for his analysis of trade patterns and location of economic activity\"", "share": "1"}]}, {"year": "2008", "category": "literature", "laureates": [{"id": "832", "firstname": "Jean-Marie Gustave", "surname": "Le Cl\u00e9zio", "motivation": "\"author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization\"", "share": "1"}]}, {"year": "2008", "category": "peace", "laureates": [{"id": "833", "firstname": "Martti", "surname": "Ahtisaari", "motivation": "\"for his important efforts, on several continents and over more than three decades, to resolve international conflicts\"", "share": "1"}]}, {"year": "2008", "category": "physics", "laureates": [{"id": "826", "firstname": "Yoichiro", "surname": "Nambu", "motivation": "\"for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics\"", "share": "2"}, {"id": "827", "firstname": "Makoto", "surname": "Kobayashi", "motivation": "\"for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature\"", "share": "4"}, {"id": "828", "firstname": "Toshihide", "surname": "Maskawa", "motivation": "\"for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature\"", "share": "4"}]}, {"year": "2008", "category": "medicine", "laureates": [{"id": "823", "firstname": "Harald", "surname": "zur Hausen", "motivation": "\"for his discovery of human papilloma viruses causing cervical cancer\"", "share": "2"}, {"id": "824", "firstname": "Fran\u00e7oise", "surname": "Barr\u00e9-Sinoussi", "motivation": "\"for their discovery of human immunodeficiency virus\"", "share": "4"}, {"id": "825", "firstname": "Luc", "surname": "Montagnier", "motivation": "\"for their discovery of human immunodeficiency virus\"", "share": "4"}]}]}
+{
+	"prizes": [
+		{
+			"year": "2008",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "834",
+					"firstname": "Paul",
+					"surname": "Krugman",
+					"motivation": "\"for his analysis of trade patterns and location of economic activity\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "2008",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "832",
+					"firstname": "Jean-Marie Gustave",
+					"surname": "Le Cl\u00e9zio",
+					"motivation": "\"author of new departures, poetic adventure and sensual ecstasy, explorer of a humanity beyond and below the reigning civilization\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "2008",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "833",
+					"firstname": "Martti",
+					"surname": "Ahtisaari",
+					"motivation": "\"for his important efforts, on several continents and over more than three decades, to resolve international conflicts\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "2008",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "826",
+					"firstname": "Yoichiro",
+					"surname": "Nambu",
+					"motivation": "\"for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics\"",
+					"share": "2"
+				},
+				{
+					"id": "827",
+					"firstname": "Makoto",
+					"surname": "Kobayashi",
+					"motivation": "\"for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature\"",
+					"share": "4"
+				},
+				{
+					"id": "828",
+					"firstname": "Toshihide",
+					"surname": "Maskawa",
+					"motivation": "\"for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature\"",
+					"share": "4"
+				}
+			]
+		},
+		{
+			"year": "2008",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "823",
+					"firstname": "Harald",
+					"surname": "zur Hausen",
+					"motivation": "\"for his discovery of human papilloma viruses causing cervical cancer\"",
+					"share": "2"
+				},
+				{
+					"id": "824",
+					"firstname": "Fran\u00e7oise",
+					"surname": "Barr\u00e9-Sinoussi",
+					"motivation": "\"for their discovery of human immunodeficiency virus\"",
+					"share": "4"
+				},
+				{
+					"id": "825",
+					"firstname": "Luc",
+					"surname": "Montagnier",
+					"motivation": "\"for their discovery of human immunodeficiency virus\"",
+					"share": "4"
+				}
+			]
+		}
+	]
+}

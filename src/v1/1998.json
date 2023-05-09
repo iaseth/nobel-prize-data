@@ -1,1 +1,104 @@
-{"prizes": [{"year": "1998", "category": "economics", "laureates": [{"id": "719", "firstname": "Amartya", "surname": "Sen", "motivation": "\"for his contributions to welfare economics\"", "share": "1"}]}, {"year": "1998", "category": "literature", "laureates": [{"id": "675", "firstname": "Jos\u00e9", "surname": "Saramago", "motivation": "\"who with parables sustained by imagination, compassion and irony continually enables us once again to apprehend an elusory reality\"", "share": "1"}]}, {"year": "1998", "category": "peace", "laureates": [{"id": "566", "firstname": "John", "surname": "Hume", "motivation": "\"for their efforts to find a peaceful solution to the conflict in Northern Ireland\"", "share": "2"}, {"id": "567", "firstname": "David", "surname": "Trimble", "motivation": "\"for their efforts to find a peaceful solution to the conflict in Northern Ireland\"", "share": "2"}]}, {"year": "1998", "category": "physics", "laureates": [{"id": "155", "firstname": "Robert B.", "surname": "Laughlin", "motivation": "\"for their discovery of a new form of quantum fluid with fractionally charged excitations\"", "share": "3"}, {"id": "156", "firstname": "Horst L.", "surname": "St\u00f6rmer", "motivation": "\"for their discovery of a new form of quantum fluid with fractionally charged excitations\"", "share": "3"}, {"id": "157", "firstname": "Daniel C.", "surname": "Tsui", "motivation": "\"for their discovery of a new form of quantum fluid with fractionally charged excitations\"", "share": "3"}]}, {"year": "1998", "category": "medicine", "laureates": [{"id": "458", "firstname": "Robert F.", "surname": "Furchgott", "motivation": "\"for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system\"", "share": "3"}, {"id": "459", "firstname": "Louis J.", "surname": "Ignarro", "motivation": "\"for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system\"", "share": "3"}, {"id": "460", "firstname": "Ferid", "surname": "Murad", "motivation": "\"for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system\"", "share": "3"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1998",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "719",
+					"firstname": "Amartya",
+					"surname": "Sen",
+					"motivation": "\"for his contributions to welfare economics\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1998",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "675",
+					"firstname": "Jos\u00e9",
+					"surname": "Saramago",
+					"motivation": "\"who with parables sustained by imagination, compassion and irony continually enables us once again to apprehend an elusory reality\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1998",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "566",
+					"firstname": "John",
+					"surname": "Hume",
+					"motivation": "\"for their efforts to find a peaceful solution to the conflict in Northern Ireland\"",
+					"share": "2"
+				},
+				{
+					"id": "567",
+					"firstname": "David",
+					"surname": "Trimble",
+					"motivation": "\"for their efforts to find a peaceful solution to the conflict in Northern Ireland\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1998",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "155",
+					"firstname": "Robert B.",
+					"surname": "Laughlin",
+					"motivation": "\"for their discovery of a new form of quantum fluid with fractionally charged excitations\"",
+					"share": "3"
+				},
+				{
+					"id": "156",
+					"firstname": "Horst L.",
+					"surname": "St\u00f6rmer",
+					"motivation": "\"for their discovery of a new form of quantum fluid with fractionally charged excitations\"",
+					"share": "3"
+				},
+				{
+					"id": "157",
+					"firstname": "Daniel C.",
+					"surname": "Tsui",
+					"motivation": "\"for their discovery of a new form of quantum fluid with fractionally charged excitations\"",
+					"share": "3"
+				}
+			]
+		},
+		{
+			"year": "1998",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "458",
+					"firstname": "Robert F.",
+					"surname": "Furchgott",
+					"motivation": "\"for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system\"",
+					"share": "3"
+				},
+				{
+					"id": "459",
+					"firstname": "Louis J.",
+					"surname": "Ignarro",
+					"motivation": "\"for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system\"",
+					"share": "3"
+				},
+				{
+					"id": "460",
+					"firstname": "Ferid",
+					"surname": "Murad",
+					"motivation": "\"for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system\"",
+					"share": "3"
+				}
+			]
+		}
+	]
+}

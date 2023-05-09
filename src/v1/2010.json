@@ -1,1 +1,90 @@
-{"prizes": [{"year": "2010", "category": "economics", "laureates": [{"id": "856", "firstname": "Peter A.", "surname": "Diamond", "motivation": "\"for their analysis of markets with search frictions\"", "share": "3"}, {"id": "857", "firstname": "Dale T.", "surname": "Mortensen", "motivation": "\"for their analysis of markets with search frictions\"", "share": "3"}, {"id": "858", "firstname": "Christopher A.", "surname": "Pissarides", "motivation": "\"for their analysis of markets with search frictions\"", "share": "3"}]}, {"year": "2010", "category": "literature", "laureates": [{"id": "854", "firstname": "Mario", "surname": "Vargas Llosa", "motivation": "\"for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat\"", "share": "1"}]}, {"year": "2010", "category": "peace", "laureates": [{"id": "855", "firstname": "Xiaobo", "surname": "Liu", "motivation": "\"for his long and non-violent struggle for fundamental human rights in China\"", "share": "1"}]}, {"year": "2010", "category": "physics", "laureates": [{"id": "849", "firstname": "Andre", "surname": "Geim", "motivation": "\"for groundbreaking experiments regarding the two-dimensional material graphene\"", "share": "2"}, {"id": "850", "firstname": "Konstantin", "surname": "Novoselov", "motivation": "\"for groundbreaking experiments regarding the two-dimensional material graphene\"", "share": "2"}]}, {"year": "2010", "category": "medicine", "laureates": [{"id": "848", "firstname": "Robert G.", "surname": "Edwards", "motivation": "\"for the development of in vitro fertilization\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "2010",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "856",
+					"firstname": "Peter A.",
+					"surname": "Diamond",
+					"motivation": "\"for their analysis of markets with search frictions\"",
+					"share": "3"
+				},
+				{
+					"id": "857",
+					"firstname": "Dale T.",
+					"surname": "Mortensen",
+					"motivation": "\"for their analysis of markets with search frictions\"",
+					"share": "3"
+				},
+				{
+					"id": "858",
+					"firstname": "Christopher A.",
+					"surname": "Pissarides",
+					"motivation": "\"for their analysis of markets with search frictions\"",
+					"share": "3"
+				}
+			]
+		},
+		{
+			"year": "2010",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "854",
+					"firstname": "Mario",
+					"surname": "Vargas Llosa",
+					"motivation": "\"for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "2010",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "855",
+					"firstname": "Xiaobo",
+					"surname": "Liu",
+					"motivation": "\"for his long and non-violent struggle for fundamental human rights in China\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "2010",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "849",
+					"firstname": "Andre",
+					"surname": "Geim",
+					"motivation": "\"for groundbreaking experiments regarding the two-dimensional material graphene\"",
+					"share": "2"
+				},
+				{
+					"id": "850",
+					"firstname": "Konstantin",
+					"surname": "Novoselov",
+					"motivation": "\"for groundbreaking experiments regarding the two-dimensional material graphene\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "2010",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "848",
+					"firstname": "Robert G.",
+					"surname": "Edwards",
+					"motivation": "\"for the development of in vitro fertilization\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

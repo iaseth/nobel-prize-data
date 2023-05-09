@@ -1,1 +1,90 @@
-{"prizes": [{"year": "1989", "category": "economics", "laureates": [{"id": "703", "firstname": "Trygve", "surname": "Haavelmo", "motivation": "\"for his clarification of the probability theory foundations of econometrics and his analyses of simultaneous economic structures\"", "share": "1"}]}, {"year": "1989", "category": "literature", "laureates": [{"id": "666", "firstname": "Camilo Jos\u00e9", "surname": "Cela", "motivation": "\"for a rich and intensive prose, which with restrained compassion forms a challenging vision of man's vulnerability\"", "share": "1"}]}, {"year": "1989", "category": "peace", "laureates": [{"id": "551", "firstname": "Lhamo", "surname": "Thondup", "motivation": "\"for advocating peaceful solutions based upon tolerance and mutual respect in order to preserve the historical and cultural heritage of his people\"", "share": "1"}]}, {"year": "1989", "category": "physics", "laureates": [{"id": "135", "firstname": "Norman F.", "surname": "Ramsey", "motivation": "\"for the invention of the separated oscillatory fields method and its use in the hydrogen maser and other atomic clocks\"", "share": "2"}, {"id": "136", "firstname": "Hans G.", "surname": "Dehmelt", "motivation": "\"for the development of the ion trap technique\"", "share": "4"}, {"id": "137", "firstname": "Wolfgang", "surname": "Paul", "motivation": "\"for the development of the ion trap technique\"", "share": "4"}]}, {"year": "1989", "category": "medicine", "laureates": [{"id": "440", "firstname": "J. Michael", "surname": "Bishop", "motivation": "\"for their discovery of the cellular origin of retroviral oncogenes\"", "share": "2"}, {"id": "441", "firstname": "Harold E.", "surname": "Varmus", "motivation": "\"for their discovery of the cellular origin of retroviral oncogenes\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1989",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "703",
+					"firstname": "Trygve",
+					"surname": "Haavelmo",
+					"motivation": "\"for his clarification of the probability theory foundations of econometrics and his analyses of simultaneous economic structures\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1989",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "666",
+					"firstname": "Camilo Jos\u00e9",
+					"surname": "Cela",
+					"motivation": "\"for a rich and intensive prose, which with restrained compassion forms a challenging vision of man's vulnerability\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1989",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "551",
+					"firstname": "Lhamo",
+					"surname": "Thondup",
+					"motivation": "\"for advocating peaceful solutions based upon tolerance and mutual respect in order to preserve the historical and cultural heritage of his people\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1989",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "135",
+					"firstname": "Norman F.",
+					"surname": "Ramsey",
+					"motivation": "\"for the invention of the separated oscillatory fields method and its use in the hydrogen maser and other atomic clocks\"",
+					"share": "2"
+				},
+				{
+					"id": "136",
+					"firstname": "Hans G.",
+					"surname": "Dehmelt",
+					"motivation": "\"for the development of the ion trap technique\"",
+					"share": "4"
+				},
+				{
+					"id": "137",
+					"firstname": "Wolfgang",
+					"surname": "Paul",
+					"motivation": "\"for the development of the ion trap technique\"",
+					"share": "4"
+				}
+			]
+		},
+		{
+			"year": "1989",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "440",
+					"firstname": "J. Michael",
+					"surname": "Bishop",
+					"motivation": "\"for their discovery of the cellular origin of retroviral oncogenes\"",
+					"share": "2"
+				},
+				{
+					"id": "441",
+					"firstname": "Harold E.",
+					"surname": "Varmus",
+					"motivation": "\"for their discovery of the cellular origin of retroviral oncogenes\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

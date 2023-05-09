@@ -1,1 +1,75 @@
-{"prizes": [{"year": "1947", "category": "literature", "laureates": [{"id": "618", "firstname": "Andr\u00e9", "surname": "Gide", "motivation": "\"for his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight\"", "share": "1"}]}, {"year": "1947", "category": "peace", "laureates": [{"id": "508", "motivation": "\"for their pioneering work in the international peace movement and compassionate effort to relieve human suffering, thereby promoting the fraternity between nations\"", "share": "2", "firstname": "Friends Service Council"}, {"id": "509", "motivation": "\"for their pioneering work in the international peace movement and compassionate effort to relieve human suffering, thereby promoting the fraternity between nations\"", "share": "2", "firstname": "American Friends Service Committee"}]}, {"year": "1947", "category": "physics", "laureates": [{"id": "52", "firstname": "Edward V.", "surname": "Appleton", "motivation": "\"for his investigations of the physics of the upper atmosphere especially for the discovery of the so-called Appleton layer\"", "share": "1"}]}, {"year": "1947", "category": "medicine", "laureates": [{"id": "343", "firstname": "Carl", "surname": "Cori", "motivation": "\"for their discovery of the course of the catalytic conversion of glycogen\"", "share": "4"}, {"id": "344", "firstname": "Gerty", "surname": "Cori", "motivation": "\"for their discovery of the course of the catalytic conversion of glycogen\"", "share": "4"}, {"id": "345", "firstname": "Bernardo", "surname": "Houssay", "motivation": "\"for his discovery of the part played by the hormone of the anterior pituitary lobe in the metabolism of sugar\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1947",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "618",
+					"firstname": "Andr\u00e9",
+					"surname": "Gide",
+					"motivation": "\"for his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1947",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "508",
+					"motivation": "\"for their pioneering work in the international peace movement and compassionate effort to relieve human suffering, thereby promoting the fraternity between nations\"",
+					"share": "2",
+					"firstname": "Friends Service Council"
+				},
+				{
+					"id": "509",
+					"motivation": "\"for their pioneering work in the international peace movement and compassionate effort to relieve human suffering, thereby promoting the fraternity between nations\"",
+					"share": "2",
+					"firstname": "American Friends Service Committee"
+				}
+			]
+		},
+		{
+			"year": "1947",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "52",
+					"firstname": "Edward V.",
+					"surname": "Appleton",
+					"motivation": "\"for his investigations of the physics of the upper atmosphere especially for the discovery of the so-called Appleton layer\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1947",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "343",
+					"firstname": "Carl",
+					"surname": "Cori",
+					"motivation": "\"for their discovery of the course of the catalytic conversion of glycogen\"",
+					"share": "4"
+				},
+				{
+					"id": "344",
+					"firstname": "Gerty",
+					"surname": "Cori",
+					"motivation": "\"for their discovery of the course of the catalytic conversion of glycogen\"",
+					"share": "4"
+				},
+				{
+					"id": "345",
+					"firstname": "Bernardo",
+					"surname": "Houssay",
+					"motivation": "\"for his discovery of the part played by the hormone of the anterior pituitary lobe in the metabolism of sugar\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

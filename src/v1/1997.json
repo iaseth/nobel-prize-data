@@ -1,1 +1,96 @@
-{"prizes": [{"year": "1997", "category": "economics", "laureates": [{"id": "717", "firstname": "Robert C.", "surname": "Merton", "motivation": "\"for a new method to determine the value of derivatives\"", "share": "2"}, {"id": "718", "firstname": "Myron", "surname": "Scholes", "motivation": "\"for a new method to determine the value of derivatives\"", "share": "2"}]}, {"year": "1997", "category": "literature", "laureates": [{"id": "674", "firstname": "Dario", "surname": "Fo", "motivation": "\"who emulates the jesters of the Middle Ages in scourging authority and upholding the dignity of the downtrodden\"", "share": "1"}]}, {"year": "1997", "category": "peace", "laureates": [{"id": "564", "motivation": "\"for their work for the banning and clearing of anti-personnel mines\"", "share": "2", "firstname": "International Campaign to Ban Landmines"}, {"id": "565", "firstname": "Jody", "surname": "Williams", "motivation": "\"for their work for the banning and clearing of anti-personnel mines\"", "share": "2"}]}, {"year": "1997", "category": "physics", "laureates": [{"id": "152", "firstname": "Steven", "surname": "Chu", "motivation": "\"for development of methods to cool and trap atoms with laser light\"", "share": "3"}, {"id": "153", "firstname": "Claude", "surname": "Cohen-Tannoudji", "motivation": "\"for development of methods to cool and trap atoms with laser light\"", "share": "3"}, {"id": "154", "firstname": "William D.", "surname": "Phillips", "motivation": "\"for development of methods to cool and trap atoms with laser light\"", "share": "3"}]}, {"year": "1997", "category": "medicine", "laureates": [{"id": "457", "firstname": "Stanley B.", "surname": "Prusiner", "motivation": "\"for his discovery of Prions - a new biological principle of infection\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1997",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "717",
+					"firstname": "Robert C.",
+					"surname": "Merton",
+					"motivation": "\"for a new method to determine the value of derivatives\"",
+					"share": "2"
+				},
+				{
+					"id": "718",
+					"firstname": "Myron",
+					"surname": "Scholes",
+					"motivation": "\"for a new method to determine the value of derivatives\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1997",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "674",
+					"firstname": "Dario",
+					"surname": "Fo",
+					"motivation": "\"who emulates the jesters of the Middle Ages in scourging authority and upholding the dignity of the downtrodden\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1997",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "564",
+					"motivation": "\"for their work for the banning and clearing of anti-personnel mines\"",
+					"share": "2",
+					"firstname": "International Campaign to Ban Landmines"
+				},
+				{
+					"id": "565",
+					"firstname": "Jody",
+					"surname": "Williams",
+					"motivation": "\"for their work for the banning and clearing of anti-personnel mines\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1997",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "152",
+					"firstname": "Steven",
+					"surname": "Chu",
+					"motivation": "\"for development of methods to cool and trap atoms with laser light\"",
+					"share": "3"
+				},
+				{
+					"id": "153",
+					"firstname": "Claude",
+					"surname": "Cohen-Tannoudji",
+					"motivation": "\"for development of methods to cool and trap atoms with laser light\"",
+					"share": "3"
+				},
+				{
+					"id": "154",
+					"firstname": "William D.",
+					"surname": "Phillips",
+					"motivation": "\"for development of methods to cool and trap atoms with laser light\"",
+					"share": "3"
+				}
+			]
+		},
+		{
+			"year": "1997",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "457",
+					"firstname": "Stanley B.",
+					"surname": "Prusiner",
+					"motivation": "\"for his discovery of Prions - a new biological principle of infection\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

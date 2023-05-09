@@ -1,1 +1,83 @@
-{"prizes": [{"year": "1965", "category": "literature", "laureates": [{"id": "638", "firstname": "Mikhail", "surname": "Sholokhov", "motivation": "\"for the artistic power and integrity with which, in his epic of the Don, he has given expression to a historic phase in the life of the Russian people\"", "share": "1"}]}, {"year": "1965", "category": "peace", "laureates": [{"id": "525", "motivation": "\"for its effort to enhance solidarity between nations and reduce the difference between rich and poor states\"", "share": "1", "firstname": "United Nations Children's Fund"}]}, {"year": "1965", "category": "physics", "laureates": [{"id": "84", "firstname": "Sin-Itiro", "surname": "Tomonaga", "motivation": "\"for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles\"", "share": "3"}, {"id": "85", "firstname": "Julian", "surname": "Schwinger", "motivation": "\"for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles\"", "share": "3"}, {"id": "86", "firstname": "Richard P.", "surname": "Feynman", "motivation": "\"for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles\"", "share": "3"}]}, {"year": "1965", "category": "medicine", "laureates": [{"id": "380", "firstname": "Fran\u00e7ois", "surname": "Jacob", "motivation": "\"for their discoveries concerning genetic control of enzyme and virus synthesis\"", "share": "3"}, {"id": "381", "firstname": "Andr\u00e9", "surname": "Lwoff", "motivation": "\"for their discoveries concerning genetic control of enzyme and virus synthesis\"", "share": "3"}, {"id": "382", "firstname": "Jacques", "surname": "Monod", "motivation": "\"for their discoveries concerning genetic control of enzyme and virus synthesis\"", "share": "3"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1965",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "638",
+					"firstname": "Mikhail",
+					"surname": "Sholokhov",
+					"motivation": "\"for the artistic power and integrity with which, in his epic of the Don, he has given expression to a historic phase in the life of the Russian people\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1965",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "525",
+					"motivation": "\"for its effort to enhance solidarity between nations and reduce the difference between rich and poor states\"",
+					"share": "1",
+					"firstname": "United Nations Children's Fund"
+				}
+			]
+		},
+		{
+			"year": "1965",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "84",
+					"firstname": "Sin-Itiro",
+					"surname": "Tomonaga",
+					"motivation": "\"for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles\"",
+					"share": "3"
+				},
+				{
+					"id": "85",
+					"firstname": "Julian",
+					"surname": "Schwinger",
+					"motivation": "\"for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles\"",
+					"share": "3"
+				},
+				{
+					"id": "86",
+					"firstname": "Richard P.",
+					"surname": "Feynman",
+					"motivation": "\"for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles\"",
+					"share": "3"
+				}
+			]
+		},
+		{
+			"year": "1965",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "380",
+					"firstname": "Fran\u00e7ois",
+					"surname": "Jacob",
+					"motivation": "\"for their discoveries concerning genetic control of enzyme and virus synthesis\"",
+					"share": "3"
+				},
+				{
+					"id": "381",
+					"firstname": "Andr\u00e9",
+					"surname": "Lwoff",
+					"motivation": "\"for their discoveries concerning genetic control of enzyme and virus synthesis\"",
+					"share": "3"
+				},
+				{
+					"id": "382",
+					"firstname": "Jacques",
+					"surname": "Monod",
+					"motivation": "\"for their discoveries concerning genetic control of enzyme and virus synthesis\"",
+					"share": "3"
+				}
+			]
+		}
+	]
+}

@@ -1,1 +1,55 @@
-{"prizes": [{"year": "1910", "category": "literature", "laureates": [{"id": "580", "firstname": "Paul", "surname": "Heyse", "motivation": "\"as a tribute to the consummate artistry, permeated with idealism, which he has demonstrated during his long productive career as a lyric poet, dramatist, novelist and writer of world-renowned short stories\"", "share": "1"}]}, {"year": "1910", "category": "peace", "laureates": [{"id": "477", "motivation": "\"for acting as a link between the peace societies of the various countries, and helping them to organize the world rallies of the international peace movement\"", "share": "1", "firstname": "Permanent International Peace Bureau"}]}, {"year": "1910", "category": "physics", "laureates": [{"id": "15", "firstname": "Johannes Diderik", "surname": "van der Waals", "motivation": "\"for his work on the equation of state for gases and liquids\"", "share": "1"}]}, {"year": "1910", "category": "medicine", "laureates": [{"id": "304", "firstname": "Albrecht", "surname": "Kossel", "motivation": "\"in recognition of the contributions to our knowledge of cell chemistry made through his work on proteins, including the nucleic substances\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1910",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "580",
+					"firstname": "Paul",
+					"surname": "Heyse",
+					"motivation": "\"as a tribute to the consummate artistry, permeated with idealism, which he has demonstrated during his long productive career as a lyric poet, dramatist, novelist and writer of world-renowned short stories\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1910",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "477",
+					"motivation": "\"for acting as a link between the peace societies of the various countries, and helping them to organize the world rallies of the international peace movement\"",
+					"share": "1",
+					"firstname": "Permanent International Peace Bureau"
+				}
+			]
+		},
+		{
+			"year": "1910",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "15",
+					"firstname": "Johannes Diderik",
+					"surname": "van der Waals",
+					"motivation": "\"for his work on the equation of state for gases and liquids\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1910",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "304",
+					"firstname": "Albrecht",
+					"surname": "Kossel",
+					"motivation": "\"in recognition of the contributions to our knowledge of cell chemistry made through his work on proteins, including the nucleic substances\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

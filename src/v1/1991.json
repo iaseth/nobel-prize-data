@@ -1,1 +1,75 @@
-{"prizes": [{"year": "1991", "category": "economics", "laureates": [{"id": "707", "firstname": "Ronald H.", "surname": "Coase", "motivation": "\"for his discovery and clarification of the significance of transaction costs and property rights for the institutional structure and functioning of the economy\"", "share": "1"}]}, {"year": "1991", "category": "literature", "laureates": [{"id": "668", "firstname": "Nadine", "surname": "Gordimer", "motivation": "\"who through her magnificent epic writing has - in the words of Alfred Nobel - been of very great benefit to humanity\"", "share": "1"}]}, {"year": "1991", "category": "peace", "laureates": [{"id": "553", "firstname": "Aung San Suu Kyi", "motivation": "\"for her non-violent struggle for democracy and human rights\"", "share": "1"}]}, {"year": "1991", "category": "physics", "laureates": [{"id": "141", "firstname": "Pierre-Gilles", "surname": "de Gennes", "motivation": "\"for discovering that methods developed for studying order phenomena in simple systems can be generalized to more complex forms of matter, in particular to liquid crystals and polymers\"", "share": "1"}]}, {"year": "1991", "category": "medicine", "laureates": [{"id": "444", "firstname": "Erwin", "surname": "Neher", "motivation": "\"for their discoveries concerning the function of single ion channels in cells\"", "share": "2"}, {"id": "445", "firstname": "Bert", "surname": "Sakmann", "motivation": "\"for their discoveries concerning the function of single ion channels in cells\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1991",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "707",
+					"firstname": "Ronald H.",
+					"surname": "Coase",
+					"motivation": "\"for his discovery and clarification of the significance of transaction costs and property rights for the institutional structure and functioning of the economy\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1991",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "668",
+					"firstname": "Nadine",
+					"surname": "Gordimer",
+					"motivation": "\"who through her magnificent epic writing has - in the words of Alfred Nobel - been of very great benefit to humanity\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1991",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "553",
+					"firstname": "Aung San Suu Kyi",
+					"motivation": "\"for her non-violent struggle for democracy and human rights\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1991",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "141",
+					"firstname": "Pierre-Gilles",
+					"surname": "de Gennes",
+					"motivation": "\"for discovering that methods developed for studying order phenomena in simple systems can be generalized to more complex forms of matter, in particular to liquid crystals and polymers\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1991",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "444",
+					"firstname": "Erwin",
+					"surname": "Neher",
+					"motivation": "\"for their discoveries concerning the function of single ion channels in cells\"",
+					"share": "2"
+				},
+				{
+					"id": "445",
+					"firstname": "Bert",
+					"surname": "Sakmann",
+					"motivation": "\"for their discoveries concerning the function of single ion channels in cells\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

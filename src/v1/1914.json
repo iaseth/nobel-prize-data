@@ -1,1 +1,40 @@
-{"prizes": [{"year": "1914", "category": "literature", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}, {"year": "1914", "category": "peace", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}, {"year": "1914", "category": "physics", "laureates": [{"id": "19", "firstname": "Max", "surname": "von Laue", "motivation": "\"for his discovery of the diffraction of X-rays by crystals\"", "share": "1"}]}, {"year": "1914", "category": "medicine", "laureates": [{"id": "308", "firstname": "Robert", "surname": "B\u00e1r\u00e1ny", "motivation": "\"for his work on the physiology and pathology of the vestibular apparatus\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1914",
+			"category": "literature",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		},
+		{
+			"year": "1914",
+			"category": "peace",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		},
+		{
+			"year": "1914",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "19",
+					"firstname": "Max",
+					"surname": "von Laue",
+					"motivation": "\"for his discovery of the diffraction of X-rays by crystals\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1914",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "308",
+					"firstname": "Robert",
+					"surname": "B\u00e1r\u00e1ny",
+					"motivation": "\"for his work on the physiology and pathology of the vestibular apparatus\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

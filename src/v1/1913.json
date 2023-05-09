@@ -1,1 +1,56 @@
-{"prizes": [{"year": "1913", "category": "literature", "laureates": [{"id": "583", "firstname": "Rabindranath", "surname": "Tagore", "motivation": "\"because of his profoundly sensitive, fresh and beautiful verse, by which, with consummate skill, he has made his poetic thought, expressed in his own English words, a part of the literature of the West\"", "share": "1"}]}, {"year": "1913", "category": "peace", "laureates": [{"id": "481", "firstname": "Henri", "surname": "La Fontaine", "motivation": "\"for his unparalleled contribution to the organization of peaceful internationalism\"", "share": "1"}]}, {"year": "1913", "category": "physics", "laureates": [{"id": "18", "firstname": "Heike", "surname": "Kamerlingh Onnes", "motivation": "\"for his investigations on the properties of matter at low temperatures which led, inter alia, to the production of liquid helium\"", "share": "1"}]}, {"year": "1913", "category": "medicine", "laureates": [{"id": "307", "firstname": "Charles", "surname": "Richet", "motivation": "\"in recognition of his work on anaphylaxis\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1913",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "583",
+					"firstname": "Rabindranath",
+					"surname": "Tagore",
+					"motivation": "\"because of his profoundly sensitive, fresh and beautiful verse, by which, with consummate skill, he has made his poetic thought, expressed in his own English words, a part of the literature of the West\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1913",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "481",
+					"firstname": "Henri",
+					"surname": "La Fontaine",
+					"motivation": "\"for his unparalleled contribution to the organization of peaceful internationalism\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1913",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "18",
+					"firstname": "Heike",
+					"surname": "Kamerlingh Onnes",
+					"motivation": "\"for his investigations on the properties of matter at low temperatures which led, inter alia, to the production of liquid helium\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1913",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "307",
+					"firstname": "Charles",
+					"surname": "Richet",
+					"motivation": "\"in recognition of his work on anaphylaxis\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

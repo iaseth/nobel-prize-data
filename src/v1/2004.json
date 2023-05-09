@@ -1,1 +1,97 @@
-{"prizes": [{"year": "2004", "category": "economics", "laureates": [{"id": "786", "firstname": "Finn E.", "surname": "Kydland", "motivation": "\"for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles\"", "share": "2"}, {"id": "787", "firstname": "Edward C.", "surname": "Prescott", "motivation": "\"for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles\"", "share": "2"}]}, {"year": "2004", "category": "literature", "laureates": [{"id": "782", "firstname": "Elfriede", "surname": "Jelinek", "motivation": "\"for her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clich&eacute;s and their subjugating power\"", "share": "1"}]}, {"year": "2004", "category": "peace", "laureates": [{"id": "783", "firstname": "Wangari", "surname": "Maathai", "motivation": "\"for her contribution to sustainable development, democracy and peace\"", "share": "1"}]}, {"year": "2004", "category": "physics", "laureates": [{"id": "776", "firstname": "David J.", "surname": "Gross", "motivation": "\"for the discovery of asymptotic freedom in the theory of the strong interaction\"", "share": "3"}, {"id": "777", "firstname": "H. David", "surname": "Politzer", "motivation": "\"for the discovery of asymptotic freedom in the theory of the strong interaction\"", "share": "3"}, {"id": "778", "firstname": "Frank", "surname": "Wilczek", "motivation": "\"for the discovery of asymptotic freedom in the theory of the strong interaction\"", "share": "3"}]}, {"year": "2004", "category": "medicine", "laureates": [{"id": "774", "firstname": "Richard", "surname": "Axel", "motivation": "\"for their discoveries of odorant receptors and the organization of the olfactory system\"", "share": "2"}, {"id": "775", "firstname": "Linda B.", "surname": "Buck", "motivation": "\"for their discoveries of odorant receptors and the organization of the olfactory system\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "2004",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "786",
+					"firstname": "Finn E.",
+					"surname": "Kydland",
+					"motivation": "\"for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles\"",
+					"share": "2"
+				},
+				{
+					"id": "787",
+					"firstname": "Edward C.",
+					"surname": "Prescott",
+					"motivation": "\"for their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "2004",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "782",
+					"firstname": "Elfriede",
+					"surname": "Jelinek",
+					"motivation": "\"for her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clich&eacute;s and their subjugating power\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "2004",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "783",
+					"firstname": "Wangari",
+					"surname": "Maathai",
+					"motivation": "\"for her contribution to sustainable development, democracy and peace\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "2004",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "776",
+					"firstname": "David J.",
+					"surname": "Gross",
+					"motivation": "\"for the discovery of asymptotic freedom in the theory of the strong interaction\"",
+					"share": "3"
+				},
+				{
+					"id": "777",
+					"firstname": "H. David",
+					"surname": "Politzer",
+					"motivation": "\"for the discovery of asymptotic freedom in the theory of the strong interaction\"",
+					"share": "3"
+				},
+				{
+					"id": "778",
+					"firstname": "Frank",
+					"surname": "Wilczek",
+					"motivation": "\"for the discovery of asymptotic freedom in the theory of the strong interaction\"",
+					"share": "3"
+				}
+			]
+		},
+		{
+			"year": "2004",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "774",
+					"firstname": "Richard",
+					"surname": "Axel",
+					"motivation": "\"for their discoveries of odorant receptors and the organization of the olfactory system\"",
+					"share": "2"
+				},
+				{
+					"id": "775",
+					"firstname": "Linda B.",
+					"surname": "Buck",
+					"motivation": "\"for their discoveries of odorant receptors and the organization of the olfactory system\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

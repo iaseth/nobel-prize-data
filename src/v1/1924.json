@@ -1,1 +1,48 @@
-{"prizes": [{"year": "1924", "category": "literature", "laureates": [{"id": "594", "firstname": "Wladyslaw", "surname": "Reymont", "motivation": "\"for his great national epic, <I>The Peasants</I>\"", "share": "1"}]}, {"year": "1924", "category": "peace", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}, {"year": "1924", "category": "physics", "laureates": [{"id": "29", "firstname": "Manne", "surname": "Siegbahn", "motivation": "\"for his discoveries and research in the field of X-ray spectroscopy\"", "share": "1"}]}, {"year": "1924", "category": "medicine", "laureates": [{"id": "315", "firstname": "Willem", "surname": "Einthoven", "motivation": "\"for his discovery of the mechanism of the electrocardiogram\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1924",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "594",
+					"firstname": "Wladyslaw",
+					"surname": "Reymont",
+					"motivation": "\"for his great national epic, <I>The Peasants</I>\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1924",
+			"category": "peace",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		},
+		{
+			"year": "1924",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "29",
+					"firstname": "Manne",
+					"surname": "Siegbahn",
+					"motivation": "\"for his discoveries and research in the field of X-ray spectroscopy\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1924",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "315",
+					"firstname": "Willem",
+					"surname": "Einthoven",
+					"motivation": "\"for his discovery of the mechanism of the electrocardiogram\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

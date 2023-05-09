@@ -1,1 +1,76 @@
-{"prizes": [{"year": "1956", "category": "literature", "laureates": [{"id": "627", "firstname": "Juan Ram\u00f3n", "surname": "Jim\u00e9nez", "motivation": "\"for his lyrical poetry, which in Spanish language constitutes an example of high spirit and artistical purity\"", "share": "1"}]}, {"year": "1956", "category": "peace", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was with 1/3 allocated to the Main Fund and with 2/3 to the Special Fund of this prize section.\""}, {"year": "1956", "category": "physics", "laureates": [{"id": "65", "firstname": "William B.", "surname": "Shockley", "motivation": "\"for their researches on semiconductors and their discovery of the transistor effect\"", "share": "3"}, {"id": "66", "firstname": "John", "surname": "Bardeen", "motivation": "\"for their researches on semiconductors and their discovery of the transistor effect\"", "share": "3"}, {"id": "67", "firstname": "Walter H.", "surname": "Brattain", "motivation": "\"for their researches on semiconductors and their discovery of the transistor effect\"", "share": "3"}]}, {"year": "1956", "category": "medicine", "laureates": [{"id": "360", "firstname": "Andr\u00e9 F.", "surname": "Cournand", "motivation": "\"for their discoveries concerning heart catheterization and pathological changes in the circulatory system\"", "share": "3"}, {"id": "361", "firstname": "Werner", "surname": "Forssmann", "motivation": "\"for their discoveries concerning heart catheterization and pathological changes in the circulatory system\"", "share": "3"}, {"id": "362", "firstname": "Dickinson W.", "surname": "Richards", "motivation": "\"for their discoveries concerning heart catheterization and pathological changes in the circulatory system\"", "share": "3"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1956",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "627",
+					"firstname": "Juan Ram\u00f3n",
+					"surname": "Jim\u00e9nez",
+					"motivation": "\"for his lyrical poetry, which in Spanish language constitutes an example of high spirit and artistical purity\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1956",
+			"category": "peace",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was with 1/3 allocated to the Main Fund and with 2/3 to the Special Fund of this prize section.\""
+		},
+		{
+			"year": "1956",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "65",
+					"firstname": "William B.",
+					"surname": "Shockley",
+					"motivation": "\"for their researches on semiconductors and their discovery of the transistor effect\"",
+					"share": "3"
+				},
+				{
+					"id": "66",
+					"firstname": "John",
+					"surname": "Bardeen",
+					"motivation": "\"for their researches on semiconductors and their discovery of the transistor effect\"",
+					"share": "3"
+				},
+				{
+					"id": "67",
+					"firstname": "Walter H.",
+					"surname": "Brattain",
+					"motivation": "\"for their researches on semiconductors and their discovery of the transistor effect\"",
+					"share": "3"
+				}
+			]
+		},
+		{
+			"year": "1956",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "360",
+					"firstname": "Andr\u00e9 F.",
+					"surname": "Cournand",
+					"motivation": "\"for their discoveries concerning heart catheterization and pathological changes in the circulatory system\"",
+					"share": "3"
+				},
+				{
+					"id": "361",
+					"firstname": "Werner",
+					"surname": "Forssmann",
+					"motivation": "\"for their discoveries concerning heart catheterization and pathological changes in the circulatory system\"",
+					"share": "3"
+				},
+				{
+					"id": "362",
+					"firstname": "Dickinson W.",
+					"surname": "Richards",
+					"motivation": "\"for their discoveries concerning heart catheterization and pathological changes in the circulatory system\"",
+					"share": "3"
+				}
+			]
+		}
+	]
+}

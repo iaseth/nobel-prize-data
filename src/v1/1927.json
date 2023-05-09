@@ -1,1 +1,70 @@
-{"prizes": [{"year": "1927", "category": "literature", "laureates": [{"id": "600", "firstname": "Henri", "surname": "Bergson", "motivation": "\"in recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented\"", "share": "1"}]}, {"year": "1927", "category": "peace", "laureates": [{"id": "492", "firstname": "Ferdinand", "surname": "Buisson", "motivation": "\"for their contribution to the emergence in France and Germany of a public opinion which favours peaceful international cooperation\"", "share": "2"}, {"id": "493", "firstname": "Ludwig", "surname": "Quidde", "motivation": "\"for their contribution to the emergence in France and Germany of a public opinion which favours peaceful international cooperation\"", "share": "2"}]}, {"year": "1927", "category": "physics", "laureates": [{"id": "33", "firstname": "Arthur H.", "surname": "Compton", "motivation": "\"for his discovery of the effect named after him\"", "share": "2"}, {"id": "34", "firstname": "C.T.R.", "surname": "Wilson", "motivation": "\"for his method of making the paths of electrically charged particles visible by condensation of vapour\"", "share": "2"}]}, {"year": "1927", "category": "medicine", "laureates": [{"id": "317", "firstname": "Julius", "surname": "Wagner-Jauregg", "motivation": "\"for his discovery of the therapeutic value of malaria inoculation in the treatment of dementia paralytica\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1927",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "600",
+					"firstname": "Henri",
+					"surname": "Bergson",
+					"motivation": "\"in recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1927",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "492",
+					"firstname": "Ferdinand",
+					"surname": "Buisson",
+					"motivation": "\"for their contribution to the emergence in France and Germany of a public opinion which favours peaceful international cooperation\"",
+					"share": "2"
+				},
+				{
+					"id": "493",
+					"firstname": "Ludwig",
+					"surname": "Quidde",
+					"motivation": "\"for their contribution to the emergence in France and Germany of a public opinion which favours peaceful international cooperation\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1927",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "33",
+					"firstname": "Arthur H.",
+					"surname": "Compton",
+					"motivation": "\"for his discovery of the effect named after him\"",
+					"share": "2"
+				},
+				{
+					"id": "34",
+					"firstname": "C.T.R.",
+					"surname": "Wilson",
+					"motivation": "\"for his method of making the paths of electrically charged particles visible by condensation of vapour\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1927",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "317",
+					"firstname": "Julius",
+					"surname": "Wagner-Jauregg",
+					"motivation": "\"for his discovery of the therapeutic value of malaria inoculation in the treatment of dementia paralytica\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

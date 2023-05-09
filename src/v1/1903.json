@@ -1,1 +1,70 @@
-{"prizes": [{"year": "1903", "category": "literature", "laureates": [{"id": "572", "firstname": "Bj\u00f8rnstjerne", "surname": "Bj\u00f8rnson", "motivation": "\"as a tribute to his noble, magnificent and versatile poetry, which has always been distinguished by both the freshness of its inspiration and the rare purity of its spirit\"", "share": "1"}]}, {"year": "1903", "category": "peace", "laureates": [{"id": "466", "firstname": "Randal", "surname": "Cremer", "motivation": "\"for his longstanding and devoted effort in favour of the ideas of peace and arbitration\"", "share": "1"}]}, {"year": "1903", "category": "physics", "laureates": [{"id": "4", "firstname": "Henri", "surname": "Becquerel", "motivation": "\"in recognition of the extraordinary services he has rendered by his discovery of spontaneous radioactivity\"", "share": "2"}, {"id": "5", "firstname": "Pierre", "surname": "Curie", "motivation": "\"in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel\"", "share": "4"}, {"id": "6", "firstname": "Marie", "surname": "Curie", "motivation": "\"in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel\"", "share": "4"}]}, {"year": "1903", "category": "medicine", "laureates": [{"id": "295", "firstname": "Niels Ryberg", "surname": "Finsen", "motivation": "\"in recognition of his contribution to the treatment of diseases, especially lupus vulgaris, with concentrated light radiation, whereby he has opened a new avenue for medical science\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1903",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "572",
+					"firstname": "Bj\u00f8rnstjerne",
+					"surname": "Bj\u00f8rnson",
+					"motivation": "\"as a tribute to his noble, magnificent and versatile poetry, which has always been distinguished by both the freshness of its inspiration and the rare purity of its spirit\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1903",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "466",
+					"firstname": "Randal",
+					"surname": "Cremer",
+					"motivation": "\"for his longstanding and devoted effort in favour of the ideas of peace and arbitration\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1903",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "4",
+					"firstname": "Henri",
+					"surname": "Becquerel",
+					"motivation": "\"in recognition of the extraordinary services he has rendered by his discovery of spontaneous radioactivity\"",
+					"share": "2"
+				},
+				{
+					"id": "5",
+					"firstname": "Pierre",
+					"surname": "Curie",
+					"motivation": "\"in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel\"",
+					"share": "4"
+				},
+				{
+					"id": "6",
+					"firstname": "Marie",
+					"surname": "Curie",
+					"motivation": "\"in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel\"",
+					"share": "4"
+				}
+			]
+		},
+		{
+			"year": "1903",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "295",
+					"firstname": "Niels Ryberg",
+					"surname": "Finsen",
+					"motivation": "\"in recognition of his contribution to the treatment of diseases, especially lupus vulgaris, with concentrated light radiation, whereby he has opened a new avenue for medical science\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

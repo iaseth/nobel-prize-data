@@ -28,14 +28,14 @@ def generate_v1_data():
 		data = years[year]
 		jsonPath = f"src/v1/{year}.json"
 		with open(jsonPath, "w") as f:
-			json.dump(data, f)
+			json.dump(data, f, indent="\t")
 		print(f"Saved: {jsonPath}")
 
 	for category in categories:
 		data = categories[category]
 		jsonPath = f"src/v1/{category}.json"
 		with open(jsonPath, "w") as f:
-			json.dump(data, f)
+			json.dump(data, f, indent="\t")
 		print(f"Saved: {jsonPath}")
 
 

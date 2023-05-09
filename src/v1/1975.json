@@ -1,1 +1,104 @@
-{"prizes": [{"year": "1975", "category": "economics", "laureates": [{"id": "686", "firstname": "Leonid Vitaliyevich", "surname": "Kantorovich", "motivation": "\"for their contributions to the theory of optimum allocation of resources\"", "share": "2"}, {"id": "687", "firstname": "Tjalling C.", "surname": "Koopmans", "motivation": "\"for their contributions to the theory of optimum allocation of resources\"", "share": "2"}]}, {"year": "1975", "category": "literature", "laureates": [{"id": "651", "firstname": "Eugenio", "surname": "Montale", "motivation": "\"for his distinctive poetry which, with great artistic sensitivity, has interpreted human values under the sign of an outlook on life with no illusions\"", "share": "1"}]}, {"year": "1975", "category": "peace", "laureates": [{"id": "534", "firstname": "Andrei", "surname": "Sakharov", "motivation": "\"for his struggle for human rights in the Soviet Union, for disarmament and cooperation between all nations\"", "share": "1"}]}, {"year": "1975", "category": "physics", "laureates": [{"id": "102", "firstname": "Aage N.", "surname": "Bohr", "motivation": "\"for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection\"", "share": "3"}, {"id": "103", "firstname": "Ben R.", "surname": "Mottelson", "motivation": "\"for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection\"", "share": "3"}, {"id": "104", "firstname": "James", "surname": "Rainwater", "motivation": "\"for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection\"", "share": "3"}]}, {"year": "1975", "category": "medicine", "laureates": [{"id": "406", "firstname": "David", "surname": "Baltimore", "motivation": "\"for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell\"", "share": "3"}, {"id": "407", "firstname": "Renato", "surname": "Dulbecco", "motivation": "\"for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell\"", "share": "3"}, {"id": "408", "firstname": "Howard M.", "surname": "Temin", "motivation": "\"for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell\"", "share": "3"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1975",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "686",
+					"firstname": "Leonid Vitaliyevich",
+					"surname": "Kantorovich",
+					"motivation": "\"for their contributions to the theory of optimum allocation of resources\"",
+					"share": "2"
+				},
+				{
+					"id": "687",
+					"firstname": "Tjalling C.",
+					"surname": "Koopmans",
+					"motivation": "\"for their contributions to the theory of optimum allocation of resources\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1975",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "651",
+					"firstname": "Eugenio",
+					"surname": "Montale",
+					"motivation": "\"for his distinctive poetry which, with great artistic sensitivity, has interpreted human values under the sign of an outlook on life with no illusions\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1975",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "534",
+					"firstname": "Andrei",
+					"surname": "Sakharov",
+					"motivation": "\"for his struggle for human rights in the Soviet Union, for disarmament and cooperation between all nations\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1975",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "102",
+					"firstname": "Aage N.",
+					"surname": "Bohr",
+					"motivation": "\"for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection\"",
+					"share": "3"
+				},
+				{
+					"id": "103",
+					"firstname": "Ben R.",
+					"surname": "Mottelson",
+					"motivation": "\"for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection\"",
+					"share": "3"
+				},
+				{
+					"id": "104",
+					"firstname": "James",
+					"surname": "Rainwater",
+					"motivation": "\"for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection\"",
+					"share": "3"
+				}
+			]
+		},
+		{
+			"year": "1975",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "406",
+					"firstname": "David",
+					"surname": "Baltimore",
+					"motivation": "\"for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell\"",
+					"share": "3"
+				},
+				{
+					"id": "407",
+					"firstname": "Renato",
+					"surname": "Dulbecco",
+					"motivation": "\"for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell\"",
+					"share": "3"
+				},
+				{
+					"id": "408",
+					"firstname": "Howard M.",
+					"surname": "Temin",
+					"motivation": "\"for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell\"",
+					"share": "3"
+				}
+			]
+		}
+	]
+}

@@ -1,1 +1,55 @@
-{"prizes": [{"year": "1955", "category": "literature", "laureates": [{"id": "626", "firstname": "Halld\u00f3r", "surname": "Laxness", "motivation": "\"for his vivid epic power which has renewed the great narrative art of Iceland\"", "share": "1"}]}, {"year": "1955", "category": "peace", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}, {"year": "1955", "category": "physics", "laureates": [{"id": "63", "firstname": "Willis E.", "surname": "Lamb", "motivation": "\"for his discoveries concerning the fine structure of the hydrogen spectrum\"", "share": "2"}, {"id": "64", "firstname": "Polykarp", "surname": "Kusch", "motivation": "\"for his precision determination of the magnetic moment of the electron\"", "share": "2"}]}, {"year": "1955", "category": "medicine", "laureates": [{"id": "359", "firstname": "Hugo", "surname": "Theorell", "motivation": "\"for his discoveries concerning the nature and mode of action of oxidation enzymes\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1955",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "626",
+					"firstname": "Halld\u00f3r",
+					"surname": "Laxness",
+					"motivation": "\"for his vivid epic power which has renewed the great narrative art of Iceland\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1955",
+			"category": "peace",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		},
+		{
+			"year": "1955",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "63",
+					"firstname": "Willis E.",
+					"surname": "Lamb",
+					"motivation": "\"for his discoveries concerning the fine structure of the hydrogen spectrum\"",
+					"share": "2"
+				},
+				{
+					"id": "64",
+					"firstname": "Polykarp",
+					"surname": "Kusch",
+					"motivation": "\"for his precision determination of the magnetic moment of the electron\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1955",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "359",
+					"firstname": "Hugo",
+					"surname": "Theorell",
+					"motivation": "\"for his discoveries concerning the nature and mode of action of oxidation enzymes\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

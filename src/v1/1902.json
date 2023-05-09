@@ -1,1 +1,70 @@
-{"prizes": [{"year": "1902", "category": "literature", "laureates": [{"id": "571", "firstname": "Theodor", "surname": "Mommsen", "motivation": "\"the greatest living master of the art of historical writing, with special reference to his monumental work, <I>A history of Rome</I>\"", "share": "1"}]}, {"year": "1902", "category": "peace", "laureates": [{"id": "464", "firstname": "\u00c9lie", "surname": "Ducommun", "motivation": "\"for his untiring and skilful directorship of the Bern Peace Bureau\"", "share": "2"}, {"id": "465", "firstname": "Albert", "surname": "Gobat", "motivation": "\"for his eminently practical administration of the Inter-Parliamentary Union\"", "share": "2"}]}, {"year": "1902", "category": "physics", "laureates": [{"id": "2", "firstname": "Hendrik A.", "surname": "Lorentz", "motivation": "\"in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena\"", "share": "2"}, {"id": "3", "firstname": "Pieter", "surname": "Zeeman", "motivation": "\"in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena\"", "share": "2"}]}, {"year": "1902", "category": "medicine", "laureates": [{"id": "294", "firstname": "Ronald", "surname": "Ross", "motivation": "\"for his work on malaria, by which he has shown how it enters the organism and thereby has laid the foundation for successful research on this disease and methods of combating it\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1902",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "571",
+					"firstname": "Theodor",
+					"surname": "Mommsen",
+					"motivation": "\"the greatest living master of the art of historical writing, with special reference to his monumental work, <I>A history of Rome</I>\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1902",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "464",
+					"firstname": "\u00c9lie",
+					"surname": "Ducommun",
+					"motivation": "\"for his untiring and skilful directorship of the Bern Peace Bureau\"",
+					"share": "2"
+				},
+				{
+					"id": "465",
+					"firstname": "Albert",
+					"surname": "Gobat",
+					"motivation": "\"for his eminently practical administration of the Inter-Parliamentary Union\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1902",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "2",
+					"firstname": "Hendrik A.",
+					"surname": "Lorentz",
+					"motivation": "\"in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena\"",
+					"share": "2"
+				},
+				{
+					"id": "3",
+					"firstname": "Pieter",
+					"surname": "Zeeman",
+					"motivation": "\"in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1902",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "294",
+					"firstname": "Ronald",
+					"surname": "Ross",
+					"motivation": "\"for his work on malaria, by which he has shown how it enters the organism and thereby has laid the foundation for successful research on this disease and methods of combating it\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

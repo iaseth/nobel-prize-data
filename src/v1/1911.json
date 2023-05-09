@@ -1,1 +1,63 @@
-{"prizes": [{"year": "1911", "category": "literature", "laureates": [{"id": "581", "firstname": "Maurice", "surname": "Maeterlinck", "motivation": "\"in appreciation of his many-sided literary activities, and especially of his dramatic works, which are distinguished by a wealth of imagination and by a poetic fancy, which reveals, sometimes in the guise of a fairy tale, a deep inspiration, while in a mysterious way they appeal to the readers' own feelings and stimulate their imaginations\"", "share": "1"}]}, {"year": "1911", "category": "peace", "laureates": [{"id": "478", "firstname": "Tobias", "surname": "Asser", "motivation": "\"for his role as co-founder of the Institut de droit international, initiator of the Conferences on International Private Law (Conf\u00e9rences de Droit international priv\u00e9) at the Hague, and pioneer in the field of international legal relations\"", "share": "2"}, {"id": "479", "firstname": "Alfred", "surname": "Fried", "motivation": "\"for his effort to expose and fight what he considers to be the main cause of war, namely, the anarchy in international relations\"", "share": "2"}]}, {"year": "1911", "category": "physics", "laureates": [{"id": "16", "firstname": "Wilhelm", "surname": "Wien", "motivation": "\"for his discoveries regarding the laws governing the radiation of heat\"", "share": "1"}]}, {"year": "1911", "category": "medicine", "laureates": [{"id": "305", "firstname": "Allvar", "surname": "Gullstrand", "motivation": "\"for his work on the dioptrics of the eye\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1911",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "581",
+					"firstname": "Maurice",
+					"surname": "Maeterlinck",
+					"motivation": "\"in appreciation of his many-sided literary activities, and especially of his dramatic works, which are distinguished by a wealth of imagination and by a poetic fancy, which reveals, sometimes in the guise of a fairy tale, a deep inspiration, while in a mysterious way they appeal to the readers' own feelings and stimulate their imaginations\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1911",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "478",
+					"firstname": "Tobias",
+					"surname": "Asser",
+					"motivation": "\"for his role as co-founder of the Institut de droit international, initiator of the Conferences on International Private Law (Conf\u00e9rences de Droit international priv\u00e9) at the Hague, and pioneer in the field of international legal relations\"",
+					"share": "2"
+				},
+				{
+					"id": "479",
+					"firstname": "Alfred",
+					"surname": "Fried",
+					"motivation": "\"for his effort to expose and fight what he considers to be the main cause of war, namely, the anarchy in international relations\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1911",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "16",
+					"firstname": "Wilhelm",
+					"surname": "Wien",
+					"motivation": "\"for his discoveries regarding the laws governing the radiation of heat\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1911",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "305",
+					"firstname": "Allvar",
+					"surname": "Gullstrand",
+					"motivation": "\"for his work on the dioptrics of the eye\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

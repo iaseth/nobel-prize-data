@@ -1,1 +1,97 @@
-{"prizes": [{"year": "1995", "category": "economics", "laureates": [{"id": "714", "firstname": "Robert E.", "surname": "Lucas Jr.", "motivation": "\"for having developed and applied the hypothesis of rational expectations, and thereby having transformed macroeconomic analysis and deepened our understanding of economic policy\"", "share": "1"}]}, {"year": "1995", "category": "literature", "laureates": [{"id": "672", "firstname": "Seamus", "surname": "Heaney", "motivation": "\"for works of lyrical beauty and ethical depth, which exalt everyday miracles and the living past\"", "share": "1"}]}, {"year": "1995", "category": "peace", "laureates": [{"id": "560", "firstname": "Joseph", "surname": "Rotblat", "motivation": "\"for their efforts to diminish the part played by nuclear arms in international politics and, in the longer run, to eliminate such arms\"", "share": "2"}, {"id": "561", "motivation": "\"for their efforts to diminish the part played by nuclear arms in international politics and, in the longer run, to eliminate such arms\"", "share": "2", "firstname": "Pugwash Conferences on Science and World Affairs"}]}, {"year": "1995", "category": "physics", "overallMotivation": "\"for pioneering experimental contributions to lepton physics\"", "laureates": [{"id": "147", "firstname": "Martin L.", "surname": "Perl", "motivation": "\"for the discovery of the tau lepton\"", "share": "2"}, {"id": "148", "firstname": "Frederick", "surname": "Reines", "motivation": "\"for the detection of the neutrino\"", "share": "2"}]}, {"year": "1995", "category": "medicine", "laureates": [{"id": "452", "firstname": "Edward B.", "surname": "Lewis", "motivation": "\"for their discoveries concerning the genetic control of early embryonic development\"", "share": "3"}, {"id": "453", "firstname": "Christiane", "surname": "N\u00fcsslein-Volhard", "motivation": "\"for their discoveries concerning the genetic control of early embryonic development\"", "share": "3"}, {"id": "454", "firstname": "Eric F.", "surname": "Wieschaus", "motivation": "\"for their discoveries concerning the genetic control of early embryonic development\"", "share": "3"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1995",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "714",
+					"firstname": "Robert E.",
+					"surname": "Lucas Jr.",
+					"motivation": "\"for having developed and applied the hypothesis of rational expectations, and thereby having transformed macroeconomic analysis and deepened our understanding of economic policy\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1995",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "672",
+					"firstname": "Seamus",
+					"surname": "Heaney",
+					"motivation": "\"for works of lyrical beauty and ethical depth, which exalt everyday miracles and the living past\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1995",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "560",
+					"firstname": "Joseph",
+					"surname": "Rotblat",
+					"motivation": "\"for their efforts to diminish the part played by nuclear arms in international politics and, in the longer run, to eliminate such arms\"",
+					"share": "2"
+				},
+				{
+					"id": "561",
+					"motivation": "\"for their efforts to diminish the part played by nuclear arms in international politics and, in the longer run, to eliminate such arms\"",
+					"share": "2",
+					"firstname": "Pugwash Conferences on Science and World Affairs"
+				}
+			]
+		},
+		{
+			"year": "1995",
+			"category": "physics",
+			"overallMotivation": "\"for pioneering experimental contributions to lepton physics\"",
+			"laureates": [
+				{
+					"id": "147",
+					"firstname": "Martin L.",
+					"surname": "Perl",
+					"motivation": "\"for the discovery of the tau lepton\"",
+					"share": "2"
+				},
+				{
+					"id": "148",
+					"firstname": "Frederick",
+					"surname": "Reines",
+					"motivation": "\"for the detection of the neutrino\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1995",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "452",
+					"firstname": "Edward B.",
+					"surname": "Lewis",
+					"motivation": "\"for their discoveries concerning the genetic control of early embryonic development\"",
+					"share": "3"
+				},
+				{
+					"id": "453",
+					"firstname": "Christiane",
+					"surname": "N\u00fcsslein-Volhard",
+					"motivation": "\"for their discoveries concerning the genetic control of early embryonic development\"",
+					"share": "3"
+				},
+				{
+					"id": "454",
+					"firstname": "Eric F.",
+					"surname": "Wieschaus",
+					"motivation": "\"for their discoveries concerning the genetic control of early embryonic development\"",
+					"share": "3"
+				}
+			]
+		}
+	]
+}

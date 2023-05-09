@@ -1,1 +1,63 @@
-{"prizes": [{"year": "1929", "category": "literature", "laureates": [{"id": "602", "firstname": "Thomas", "surname": "Mann", "motivation": "\"principally for his great novel, <I>Buddenbrooks</I>, which has won steadily increased recognition as one of the classic works of contemporary literature\"", "share": "1"}]}, {"year": "1929", "category": "peace", "laureates": [{"id": "494", "firstname": "Frank B.", "surname": "Kellogg", "motivation": "\"for his crucial role in bringing about the Briand-Kellogg Pact\"", "share": "1"}]}, {"year": "1929", "category": "physics", "laureates": [{"id": "36", "firstname": "Louis", "surname": "de Broglie", "motivation": "\"for his discovery of the wave nature of electrons\"", "share": "1"}]}, {"year": "1929", "category": "medicine", "laureates": [{"id": "319", "firstname": "Christiaan", "surname": "Eijkman", "motivation": "\"for his discovery of the antineuritic vitamin\"", "share": "2"}, {"id": "320", "firstname": "Sir Frederick", "surname": "Hopkins", "motivation": "\"for his discovery of the growth-stimulating vitamins\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1929",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "602",
+					"firstname": "Thomas",
+					"surname": "Mann",
+					"motivation": "\"principally for his great novel, <I>Buddenbrooks</I>, which has won steadily increased recognition as one of the classic works of contemporary literature\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1929",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "494",
+					"firstname": "Frank B.",
+					"surname": "Kellogg",
+					"motivation": "\"for his crucial role in bringing about the Briand-Kellogg Pact\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1929",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "36",
+					"firstname": "Louis",
+					"surname": "de Broglie",
+					"motivation": "\"for his discovery of the wave nature of electrons\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1929",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "319",
+					"firstname": "Christiaan",
+					"surname": "Eijkman",
+					"motivation": "\"for his discovery of the antineuritic vitamin\"",
+					"share": "2"
+				},
+				{
+					"id": "320",
+					"firstname": "Sir Frederick",
+					"surname": "Hopkins",
+					"motivation": "\"for his discovery of the growth-stimulating vitamins\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

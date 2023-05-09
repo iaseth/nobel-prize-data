@@ -1,1 +1,97 @@
-{"prizes": [{"year": "1979", "category": "economics", "laureates": [{"id": "692", "firstname": "Theodore W.", "surname": "Schultz", "motivation": "\"for their pioneering research into economic development research with particular consideration of the problems of developing countries\"", "share": "2"}, {"id": "693", "firstname": "Sir Arthur", "surname": "Lewis", "motivation": "\"for their pioneering research into economic development research with particular consideration of the problems of developing countries\"", "share": "2"}]}, {"year": "1979", "category": "literature", "laureates": [{"id": "655", "firstname": "Odysseus", "surname": "Elytis", "motivation": "\"for his poetry, which, against the background of Greek tradition, depicts with sensuous strength and intellectual clear-sightedness modern man's struggle for freedom and creativeness\"", "share": "1"}]}, {"year": "1979", "category": "peace", "laureates": [{"id": "540", "firstname": "Anjez\u00eb Gonxhe", "surname": "Bojaxhiu", "motivation": "\"for her work for bringing help to suffering humanity\"", "share": "1"}]}, {"year": "1979", "category": "physics", "laureates": [{"id": "113", "firstname": "Sheldon", "surname": "Glashow", "motivation": "\"for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current\"", "share": "3"}, {"id": "114", "firstname": "Abdus", "surname": "Salam", "motivation": "\"for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current\"", "share": "3"}, {"id": "115", "firstname": "Steven", "surname": "Weinberg", "motivation": "\"for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current\"", "share": "3"}]}, {"year": "1979", "category": "medicine", "laureates": [{"id": "417", "firstname": "Allan M.", "surname": "Cormack", "motivation": "\"for the development of computer assisted tomography\"", "share": "2"}, {"id": "418", "firstname": "Godfrey N.", "surname": "Hounsfield", "motivation": "\"for the development of computer assisted tomography\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1979",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "692",
+					"firstname": "Theodore W.",
+					"surname": "Schultz",
+					"motivation": "\"for their pioneering research into economic development research with particular consideration of the problems of developing countries\"",
+					"share": "2"
+				},
+				{
+					"id": "693",
+					"firstname": "Sir Arthur",
+					"surname": "Lewis",
+					"motivation": "\"for their pioneering research into economic development research with particular consideration of the problems of developing countries\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1979",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "655",
+					"firstname": "Odysseus",
+					"surname": "Elytis",
+					"motivation": "\"for his poetry, which, against the background of Greek tradition, depicts with sensuous strength and intellectual clear-sightedness modern man's struggle for freedom and creativeness\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1979",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "540",
+					"firstname": "Anjez\u00eb Gonxhe",
+					"surname": "Bojaxhiu",
+					"motivation": "\"for her work for bringing help to suffering humanity\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1979",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "113",
+					"firstname": "Sheldon",
+					"surname": "Glashow",
+					"motivation": "\"for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current\"",
+					"share": "3"
+				},
+				{
+					"id": "114",
+					"firstname": "Abdus",
+					"surname": "Salam",
+					"motivation": "\"for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current\"",
+					"share": "3"
+				},
+				{
+					"id": "115",
+					"firstname": "Steven",
+					"surname": "Weinberg",
+					"motivation": "\"for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current\"",
+					"share": "3"
+				}
+			]
+		},
+		{
+			"year": "1979",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "417",
+					"firstname": "Allan M.",
+					"surname": "Cormack",
+					"motivation": "\"for the development of computer assisted tomography\"",
+					"share": "2"
+				},
+				{
+					"id": "418",
+					"firstname": "Godfrey N.",
+					"surname": "Hounsfield",
+					"motivation": "\"for the development of computer assisted tomography\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

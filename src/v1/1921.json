@@ -1,1 +1,55 @@
-{"prizes": [{"year": "1921", "category": "literature", "laureates": [{"id": "590", "firstname": "Anatole", "surname": "France", "motivation": "\"in recognition of his brilliant literary achievements, characterized as they are by a nobility of style, a profound human sympathy, grace, and a true Gallic temperament\"", "share": "1"}]}, {"year": "1921", "category": "peace", "laureates": [{"id": "485", "firstname": "Hjalmar", "surname": "Branting", "motivation": "\"for their lifelong contributions to the cause of peace and organized internationalism\"", "share": "2"}, {"id": "486", "firstname": "Christian", "surname": "Lange", "motivation": "\"for their lifelong contributions to the cause of peace and organized internationalism\"", "share": "2"}]}, {"year": "1921", "category": "physics", "laureates": [{"id": "26", "firstname": "Albert", "surname": "Einstein", "motivation": "\"for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect\"", "share": "1"}]}, {"year": "1921", "category": "medicine", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}]}
+{
+	"prizes": [
+		{
+			"year": "1921",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "590",
+					"firstname": "Anatole",
+					"surname": "France",
+					"motivation": "\"in recognition of his brilliant literary achievements, characterized as they are by a nobility of style, a profound human sympathy, grace, and a true Gallic temperament\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1921",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "485",
+					"firstname": "Hjalmar",
+					"surname": "Branting",
+					"motivation": "\"for their lifelong contributions to the cause of peace and organized internationalism\"",
+					"share": "2"
+				},
+				{
+					"id": "486",
+					"firstname": "Christian",
+					"surname": "Lange",
+					"motivation": "\"for their lifelong contributions to the cause of peace and organized internationalism\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1921",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "26",
+					"firstname": "Albert",
+					"surname": "Einstein",
+					"motivation": "\"for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1921",
+			"category": "medicine",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		}
+	]
+}

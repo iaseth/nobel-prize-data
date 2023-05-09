@@ -1,1 +1,77 @@
-{"prizes": [{"year": "1964", "category": "literature", "laureates": [{"id": "637", "firstname": "Jean-Paul", "surname": "Sartre", "motivation": "\"for his work which, rich in ideas and filled with the spirit of freedom and the quest for truth, has exerted a far-reaching influence on our age\"", "share": "1"}]}, {"year": "1964", "category": "peace", "laureates": [{"id": "524", "firstname": "Martin Luther", "surname": "King Jr.", "motivation": "\"for his non-violent struggle for civil rights for the Afro-American population\"", "share": "1"}]}, {"year": "1964", "category": "physics", "laureates": [{"id": "81", "firstname": "Charles H.", "surname": "Townes", "motivation": "\"for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle\"", "share": "2"}, {"id": "82", "firstname": "Nicolay G.", "surname": "Basov", "motivation": "\"for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle\"", "share": "4"}, {"id": "83", "firstname": "Aleksandr M.", "surname": "Prokhorov", "motivation": "\"for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle\"", "share": "4"}]}, {"year": "1964", "category": "medicine", "laureates": [{"id": "378", "firstname": "Konrad", "surname": "Bloch", "motivation": "\"for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism\"", "share": "2"}, {"id": "379", "firstname": "Feodor", "surname": "Lynen", "motivation": "\"for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1964",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "637",
+					"firstname": "Jean-Paul",
+					"surname": "Sartre",
+					"motivation": "\"for his work which, rich in ideas and filled with the spirit of freedom and the quest for truth, has exerted a far-reaching influence on our age\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1964",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "524",
+					"firstname": "Martin Luther",
+					"surname": "King Jr.",
+					"motivation": "\"for his non-violent struggle for civil rights for the Afro-American population\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1964",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "81",
+					"firstname": "Charles H.",
+					"surname": "Townes",
+					"motivation": "\"for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle\"",
+					"share": "2"
+				},
+				{
+					"id": "82",
+					"firstname": "Nicolay G.",
+					"surname": "Basov",
+					"motivation": "\"for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle\"",
+					"share": "4"
+				},
+				{
+					"id": "83",
+					"firstname": "Aleksandr M.",
+					"surname": "Prokhorov",
+					"motivation": "\"for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle\"",
+					"share": "4"
+				}
+			]
+		},
+		{
+			"year": "1964",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "378",
+					"firstname": "Konrad",
+					"surname": "Bloch",
+					"motivation": "\"for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism\"",
+					"share": "2"
+				},
+				{
+					"id": "379",
+					"firstname": "Feodor",
+					"surname": "Lynen",
+					"motivation": "\"for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

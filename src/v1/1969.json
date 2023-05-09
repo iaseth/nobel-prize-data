@@ -1,1 +1,89 @@
-{"prizes": [{"year": "1969", "category": "economics", "laureates": [{"id": "677", "firstname": "Ragnar", "surname": "Frisch", "motivation": "\"for having developed and applied dynamic models for the analysis of economic processes\"", "share": "2"}, {"id": "678", "firstname": "Jan", "surname": "Tinbergen", "motivation": "\"for having developed and applied dynamic models for the analysis of economic processes\"", "share": "2"}]}, {"year": "1969", "category": "literature", "laureates": [{"id": "643", "firstname": "Samuel", "surname": "Beckett", "motivation": "\"for his writing, which - in new forms for the novel and drama - in the destitution of modern man acquires its elevation\"", "share": "1"}]}, {"year": "1969", "category": "peace", "laureates": [{"id": "527", "motivation": "\"for creating international legislation insuring certain norms for working conditions in every country\"", "share": "1", "firstname": "International Labour Organization"}]}, {"year": "1969", "category": "physics", "laureates": [{"id": "90", "firstname": "Murray", "surname": "Gell-Mann", "motivation": "\"for his contributions and discoveries concerning the classification of elementary particles and their interactions\"", "share": "1"}]}, {"year": "1969", "category": "medicine", "laureates": [{"id": "391", "firstname": "Max", "surname": "Delbr\u00fcck", "motivation": "\"for their discoveries concerning the replication mechanism and the genetic structure of viruses\"", "share": "3"}, {"id": "392", "firstname": "Alfred D.", "surname": "Hershey", "motivation": "\"for their discoveries concerning the replication mechanism and the genetic structure of viruses\"", "share": "3"}, {"id": "393", "firstname": "Salvador E.", "surname": "Luria", "motivation": "\"for their discoveries concerning the replication mechanism and the genetic structure of viruses\"", "share": "3"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1969",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "677",
+					"firstname": "Ragnar",
+					"surname": "Frisch",
+					"motivation": "\"for having developed and applied dynamic models for the analysis of economic processes\"",
+					"share": "2"
+				},
+				{
+					"id": "678",
+					"firstname": "Jan",
+					"surname": "Tinbergen",
+					"motivation": "\"for having developed and applied dynamic models for the analysis of economic processes\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1969",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "643",
+					"firstname": "Samuel",
+					"surname": "Beckett",
+					"motivation": "\"for his writing, which - in new forms for the novel and drama - in the destitution of modern man acquires its elevation\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1969",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "527",
+					"motivation": "\"for creating international legislation insuring certain norms for working conditions in every country\"",
+					"share": "1",
+					"firstname": "International Labour Organization"
+				}
+			]
+		},
+		{
+			"year": "1969",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "90",
+					"firstname": "Murray",
+					"surname": "Gell-Mann",
+					"motivation": "\"for his contributions and discoveries concerning the classification of elementary particles and their interactions\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1969",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "391",
+					"firstname": "Max",
+					"surname": "Delbr\u00fcck",
+					"motivation": "\"for their discoveries concerning the replication mechanism and the genetic structure of viruses\"",
+					"share": "3"
+				},
+				{
+					"id": "392",
+					"firstname": "Alfred D.",
+					"surname": "Hershey",
+					"motivation": "\"for their discoveries concerning the replication mechanism and the genetic structure of viruses\"",
+					"share": "3"
+				},
+				{
+					"id": "393",
+					"firstname": "Salvador E.",
+					"surname": "Luria",
+					"motivation": "\"for their discoveries concerning the replication mechanism and the genetic structure of viruses\"",
+					"share": "3"
+				}
+			]
+		}
+	]
+}

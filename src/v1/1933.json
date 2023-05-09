@@ -1,1 +1,63 @@
-{"prizes": [{"year": "1933", "category": "literature", "laureates": [{"id": "606", "firstname": "Ivan", "surname": "Bunin", "motivation": "\"for the strict artistry with which he has carried on the classical Russian traditions in prose writing\"", "share": "1"}]}, {"year": "1933", "category": "peace", "laureates": [{"id": "498", "firstname": "Sir Norman", "surname": "Angell", "motivation": "\"for having exposed by his pen the illusion of war and presented a convincing plea for international cooperation and peace\"", "share": "1"}]}, {"year": "1933", "category": "physics", "laureates": [{"id": "39", "firstname": "Erwin", "surname": "Schr\u00f6dinger", "motivation": "\"for the discovery of new productive forms of atomic theory\"", "share": "2"}, {"id": "40", "firstname": "Paul A.M.", "surname": "Dirac", "motivation": "\"for the discovery of new productive forms of atomic theory\"", "share": "2"}]}, {"year": "1933", "category": "medicine", "laureates": [{"id": "325", "firstname": "Thomas H.", "surname": "Morgan", "motivation": "\"for his discoveries concerning the role played by the chromosome in heredity\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1933",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "606",
+					"firstname": "Ivan",
+					"surname": "Bunin",
+					"motivation": "\"for the strict artistry with which he has carried on the classical Russian traditions in prose writing\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1933",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "498",
+					"firstname": "Sir Norman",
+					"surname": "Angell",
+					"motivation": "\"for having exposed by his pen the illusion of war and presented a convincing plea for international cooperation and peace\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1933",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "39",
+					"firstname": "Erwin",
+					"surname": "Schr\u00f6dinger",
+					"motivation": "\"for the discovery of new productive forms of atomic theory\"",
+					"share": "2"
+				},
+				{
+					"id": "40",
+					"firstname": "Paul A.M.",
+					"surname": "Dirac",
+					"motivation": "\"for the discovery of new productive forms of atomic theory\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1933",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "325",
+					"firstname": "Thomas H.",
+					"surname": "Morgan",
+					"motivation": "\"for his discoveries concerning the role played by the chromosome in heredity\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

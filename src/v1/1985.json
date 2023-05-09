@@ -1,1 +1,75 @@
-{"prizes": [{"year": "1985", "category": "economics", "laureates": [{"id": "699", "firstname": "Franco", "surname": "Modigliani", "motivation": "\"for his pioneering analyses of saving and of financial markets\"", "share": "1"}]}, {"year": "1985", "category": "literature", "laureates": [{"id": "662", "firstname": "Claude", "surname": "Simon", "motivation": "\"who in his novel combines the poet's and the painter's creativeness with a deepened awareness of time in the depiction of the human condition\"", "share": "1"}]}, {"year": "1985", "category": "peace", "laureates": [{"id": "547", "motivation": "\"for spreading authoritative information and by creating awareness of the catastrophic consequences of nuclear war\"", "share": "1", "firstname": "International Physicians for the Prevention of Nuclear War"}]}, {"year": "1985", "category": "physics", "laureates": [{"id": "126", "firstname": "Klaus", "surname": "von Klitzing", "motivation": "\"for the discovery of the quantized Hall effect\"", "share": "1"}]}, {"year": "1985", "category": "medicine", "laureates": [{"id": "432", "firstname": "Michael S.", "surname": "Brown", "motivation": "\"for their discoveries concerning the regulation of cholesterol metabolism\"", "share": "2"}, {"id": "433", "firstname": "Joseph L.", "surname": "Goldstein", "motivation": "\"for their discoveries concerning the regulation of cholesterol metabolism\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1985",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "699",
+					"firstname": "Franco",
+					"surname": "Modigliani",
+					"motivation": "\"for his pioneering analyses of saving and of financial markets\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1985",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "662",
+					"firstname": "Claude",
+					"surname": "Simon",
+					"motivation": "\"who in his novel combines the poet's and the painter's creativeness with a deepened awareness of time in the depiction of the human condition\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1985",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "547",
+					"motivation": "\"for spreading authoritative information and by creating awareness of the catastrophic consequences of nuclear war\"",
+					"share": "1",
+					"firstname": "International Physicians for the Prevention of Nuclear War"
+				}
+			]
+		},
+		{
+			"year": "1985",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "126",
+					"firstname": "Klaus",
+					"surname": "von Klitzing",
+					"motivation": "\"for the discovery of the quantized Hall effect\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1985",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "432",
+					"firstname": "Michael S.",
+					"surname": "Brown",
+					"motivation": "\"for their discoveries concerning the regulation of cholesterol metabolism\"",
+					"share": "2"
+				},
+				{
+					"id": "433",
+					"firstname": "Joseph L.",
+					"surname": "Goldstein",
+					"motivation": "\"for their discoveries concerning the regulation of cholesterol metabolism\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

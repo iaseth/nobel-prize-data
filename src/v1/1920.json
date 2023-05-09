@@ -1,1 +1,56 @@
-{"prizes": [{"year": "1920", "category": "literature", "laureates": [{"id": "589", "firstname": "Knut", "surname": "Hamsun", "motivation": "\"for his monumental work, <I>Growth of the Soil</I>\"", "share": "1"}]}, {"year": "1920", "category": "peace", "laureates": [{"id": "484", "firstname": "L\u00e9on", "surname": "Bourgeois", "motivation": "\"for his longstanding contribution to the cause of peace and justice and his prominent role in the establishment of the League of Nations\"", "share": "1"}]}, {"year": "1920", "category": "physics", "laureates": [{"id": "25", "firstname": "Charles Edouard", "surname": "Guillaume", "motivation": "\"in recognition of the service he has rendered to precision measurements in Physics by his discovery of anomalies in nickel steel alloys\"", "share": "1"}]}, {"year": "1920", "category": "medicine", "laureates": [{"id": "310", "firstname": "August", "surname": "Krogh", "motivation": "\"for his discovery of the capillary motor regulating mechanism\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1920",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "589",
+					"firstname": "Knut",
+					"surname": "Hamsun",
+					"motivation": "\"for his monumental work, <I>Growth of the Soil</I>\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1920",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "484",
+					"firstname": "L\u00e9on",
+					"surname": "Bourgeois",
+					"motivation": "\"for his longstanding contribution to the cause of peace and justice and his prominent role in the establishment of the League of Nations\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1920",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "25",
+					"firstname": "Charles Edouard",
+					"surname": "Guillaume",
+					"motivation": "\"in recognition of the service he has rendered to precision measurements in Physics by his discovery of anomalies in nickel steel alloys\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1920",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "310",
+					"firstname": "August",
+					"surname": "Krogh",
+					"motivation": "\"for his discovery of the capillary motor regulating mechanism\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}

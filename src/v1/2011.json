@@ -1,1 +1,118 @@
-{"prizes": [{"year": "2011", "category": "economics", "laureates": [{"id": "872", "firstname": "Thomas J.", "surname": "Sargent", "motivation": "\"for their empirical research on cause and effect in the macroeconomy\"", "share": "2"}, {"id": "873", "firstname": "Christopher A.", "surname": "Sims", "motivation": "\"for their empirical research on cause and effect in the macroeconomy\"", "share": "2"}]}, {"year": "2011", "category": "literature", "laureates": [{"id": "868", "firstname": "Tomas", "surname": "Transtr\u00f6mer", "motivation": "\"because, through his condensed, translucent images, he gives us fresh access to reality\"", "share": "1"}]}, {"year": "2011", "category": "peace", "laureates": [{"id": "869", "firstname": "Ellen", "surname": "Johnson Sirleaf", "motivation": "\"for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work\"", "share": "3"}, {"id": "870", "firstname": "Leymah", "surname": "Gbowee", "motivation": "\"for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work\"", "share": "3"}, {"id": "871", "firstname": "Tawakkol", "surname": "Karman", "motivation": "\"for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work\"", "share": "3"}]}, {"year": "2011", "category": "physics", "laureates": [{"id": "864", "firstname": "Saul", "surname": "Perlmutter", "motivation": "\"for the discovery of the accelerating expansion of the Universe through observations of distant supernovae\"", "share": "2"}, {"id": "865", "firstname": "Brian P.", "surname": "Schmidt", "motivation": "\"for the discovery of the accelerating expansion of the Universe through observations of distant supernovae\"", "share": "4"}, {"id": "866", "firstname": "Adam G.", "surname": "Riess", "motivation": "\"for the discovery of the accelerating expansion of the Universe through observations of distant supernovae\"", "share": "4"}]}, {"year": "2011", "category": "medicine", "laureates": [{"id": "861", "firstname": "Bruce A.", "surname": "Beutler", "motivation": "\"for their discoveries concerning the activation of innate immunity\"", "share": "4"}, {"id": "862", "firstname": "Jules A.", "surname": "Hoffmann", "motivation": "\"for their discoveries concerning the activation of innate immunity\"", "share": "4"}, {"id": "863", "firstname": "Ralph M.", "surname": "Steinman", "motivation": "\"for his discovery of the dendritic cell and its role in adaptive immunity\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "2011",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "872",
+					"firstname": "Thomas J.",
+					"surname": "Sargent",
+					"motivation": "\"for their empirical research on cause and effect in the macroeconomy\"",
+					"share": "2"
+				},
+				{
+					"id": "873",
+					"firstname": "Christopher A.",
+					"surname": "Sims",
+					"motivation": "\"for their empirical research on cause and effect in the macroeconomy\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "2011",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "868",
+					"firstname": "Tomas",
+					"surname": "Transtr\u00f6mer",
+					"motivation": "\"because, through his condensed, translucent images, he gives us fresh access to reality\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "2011",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "869",
+					"firstname": "Ellen",
+					"surname": "Johnson Sirleaf",
+					"motivation": "\"for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work\"",
+					"share": "3"
+				},
+				{
+					"id": "870",
+					"firstname": "Leymah",
+					"surname": "Gbowee",
+					"motivation": "\"for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work\"",
+					"share": "3"
+				},
+				{
+					"id": "871",
+					"firstname": "Tawakkol",
+					"surname": "Karman",
+					"motivation": "\"for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work\"",
+					"share": "3"
+				}
+			]
+		},
+		{
+			"year": "2011",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "864",
+					"firstname": "Saul",
+					"surname": "Perlmutter",
+					"motivation": "\"for the discovery of the accelerating expansion of the Universe through observations of distant supernovae\"",
+					"share": "2"
+				},
+				{
+					"id": "865",
+					"firstname": "Brian P.",
+					"surname": "Schmidt",
+					"motivation": "\"for the discovery of the accelerating expansion of the Universe through observations of distant supernovae\"",
+					"share": "4"
+				},
+				{
+					"id": "866",
+					"firstname": "Adam G.",
+					"surname": "Riess",
+					"motivation": "\"for the discovery of the accelerating expansion of the Universe through observations of distant supernovae\"",
+					"share": "4"
+				}
+			]
+		},
+		{
+			"year": "2011",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "861",
+					"firstname": "Bruce A.",
+					"surname": "Beutler",
+					"motivation": "\"for their discoveries concerning the activation of innate immunity\"",
+					"share": "4"
+				},
+				{
+					"id": "862",
+					"firstname": "Jules A.",
+					"surname": "Hoffmann",
+					"motivation": "\"for their discoveries concerning the activation of innate immunity\"",
+					"share": "4"
+				},
+				{
+					"id": "863",
+					"firstname": "Ralph M.",
+					"surname": "Steinman",
+					"motivation": "\"for his discovery of the dendritic cell and its role in adaptive immunity\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

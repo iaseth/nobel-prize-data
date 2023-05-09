@@ -1,1 +1,117 @@
-{"prizes": [{"year": "2001", "category": "economics", "laureates": [{"id": "744", "firstname": "George A.", "surname": "Akerlof", "motivation": "\"for their analyses of markets with asymmetric information\"", "share": "3"}, {"id": "745", "firstname": "A. Michael", "surname": "Spence", "motivation": "\"for their analyses of markets with asymmetric information\"", "share": "3"}, {"id": "746", "firstname": "Joseph E.", "surname": "Stiglitz", "motivation": "\"for their analyses of markets with asymmetric information\"", "share": "3"}]}, {"year": "2001", "category": "literature", "laureates": [{"id": "747", "firstname": "V. S.", "surname": "Naipaul", "motivation": "\"for having united perceptive narrative and incorruptible scrutiny in works that compel us to see the presence of suppressed histories\"", "share": "1"}]}, {"year": "2001", "category": "peace", "laureates": [{"id": "748", "motivation": "\"for their work for a better organized and more peaceful world\"", "share": "2", "firstname": "United Nations"}, {"id": "749", "firstname": "Kofi", "surname": "Annan", "motivation": "\"for their work for a better organized and more peaceful world\"", "share": "2"}]}, {"year": "2001", "category": "physics", "laureates": [{"id": "738", "firstname": "Eric", "surname": "Cornell", "motivation": "\"for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates\"", "share": "3"}, {"id": "739", "firstname": "Wolfgang", "surname": "Ketterle", "motivation": "\"for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates\"", "share": "3"}, {"id": "740", "firstname": "Carl", "surname": "Wieman", "motivation": "\"for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates\"", "share": "3"}]}, {"year": "2001", "category": "medicine", "laureates": [{"id": "737", "firstname": "Sir Paul", "surname": "Nurse", "motivation": "\"for their discoveries of key regulators of the cell cycle\"", "share": "3"}, {"id": "735", "firstname": "Leland", "surname": "Hartwell", "motivation": "\"for their discoveries of key regulators of the cell cycle\"", "share": "3"}, {"id": "736", "firstname": "Tim", "surname": "Hunt", "motivation": "\"for their discoveries of key regulators of the cell cycle\"", "share": "3"}]}]}
+{
+	"prizes": [
+		{
+			"year": "2001",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "744",
+					"firstname": "George A.",
+					"surname": "Akerlof",
+					"motivation": "\"for their analyses of markets with asymmetric information\"",
+					"share": "3"
+				},
+				{
+					"id": "745",
+					"firstname": "A. Michael",
+					"surname": "Spence",
+					"motivation": "\"for their analyses of markets with asymmetric information\"",
+					"share": "3"
+				},
+				{
+					"id": "746",
+					"firstname": "Joseph E.",
+					"surname": "Stiglitz",
+					"motivation": "\"for their analyses of markets with asymmetric information\"",
+					"share": "3"
+				}
+			]
+		},
+		{
+			"year": "2001",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "747",
+					"firstname": "V. S.",
+					"surname": "Naipaul",
+					"motivation": "\"for having united perceptive narrative and incorruptible scrutiny in works that compel us to see the presence of suppressed histories\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "2001",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "748",
+					"motivation": "\"for their work for a better organized and more peaceful world\"",
+					"share": "2",
+					"firstname": "United Nations"
+				},
+				{
+					"id": "749",
+					"firstname": "Kofi",
+					"surname": "Annan",
+					"motivation": "\"for their work for a better organized and more peaceful world\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "2001",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "738",
+					"firstname": "Eric",
+					"surname": "Cornell",
+					"motivation": "\"for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates\"",
+					"share": "3"
+				},
+				{
+					"id": "739",
+					"firstname": "Wolfgang",
+					"surname": "Ketterle",
+					"motivation": "\"for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates\"",
+					"share": "3"
+				},
+				{
+					"id": "740",
+					"firstname": "Carl",
+					"surname": "Wieman",
+					"motivation": "\"for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates\"",
+					"share": "3"
+				}
+			]
+		},
+		{
+			"year": "2001",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "737",
+					"firstname": "Sir Paul",
+					"surname": "Nurse",
+					"motivation": "\"for their discoveries of key regulators of the cell cycle\"",
+					"share": "3"
+				},
+				{
+					"id": "735",
+					"firstname": "Leland",
+					"surname": "Hartwell",
+					"motivation": "\"for their discoveries of key regulators of the cell cycle\"",
+					"share": "3"
+				},
+				{
+					"id": "736",
+					"firstname": "Tim",
+					"surname": "Hunt",
+					"motivation": "\"for their discoveries of key regulators of the cell cycle\"",
+					"share": "3"
+				}
+			]
+		}
+	]
+}

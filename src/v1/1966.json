@@ -1,1 +1,62 @@
-{"prizes": [{"year": "1966", "category": "literature", "laureates": [{"id": "639", "firstname": "Shmuel", "surname": "Agnon", "motivation": "\"for his profoundly characteristic narrative art with motifs from the life of the Jewish people\"", "share": "2"}, {"id": "640", "firstname": "Nelly", "surname": "Sachs", "motivation": "\"for her outstanding lyrical and dramatic writing, which interprets Israel's destiny with touching strength\"", "share": "2"}]}, {"year": "1966", "category": "peace", "overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""}, {"year": "1966", "category": "physics", "laureates": [{"id": "87", "firstname": "Alfred", "surname": "Kastler", "motivation": "\"for the discovery and development of optical methods for studying Hertzian resonances in atoms\"", "share": "1"}]}, {"year": "1966", "category": "medicine", "laureates": [{"id": "383", "firstname": "Peyton", "surname": "Rous", "motivation": "\"for his discovery of tumour-inducing viruses\"", "share": "2"}, {"id": "384", "firstname": "Charles B.", "surname": "Huggins", "motivation": "\"for his discoveries concerning hormonal treatment of prostatic cancer\"", "share": "2"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1966",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "639",
+					"firstname": "Shmuel",
+					"surname": "Agnon",
+					"motivation": "\"for his profoundly characteristic narrative art with motifs from the life of the Jewish people\"",
+					"share": "2"
+				},
+				{
+					"id": "640",
+					"firstname": "Nelly",
+					"surname": "Sachs",
+					"motivation": "\"for her outstanding lyrical and dramatic writing, which interprets Israel's destiny with touching strength\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1966",
+			"category": "peace",
+			"overallMotivation": "\"No Nobel Prize was awarded this year. The prize money was allocated to the Special Fund of this prize section.\""
+		},
+		{
+			"year": "1966",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "87",
+					"firstname": "Alfred",
+					"surname": "Kastler",
+					"motivation": "\"for the discovery and development of optical methods for studying Hertzian resonances in atoms\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1966",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "383",
+					"firstname": "Peyton",
+					"surname": "Rous",
+					"motivation": "\"for his discovery of tumour-inducing viruses\"",
+					"share": "2"
+				},
+				{
+					"id": "384",
+					"firstname": "Charles B.",
+					"surname": "Huggins",
+					"motivation": "\"for his discoveries concerning hormonal treatment of prostatic cancer\"",
+					"share": "2"
+				}
+			]
+		}
+	]
+}

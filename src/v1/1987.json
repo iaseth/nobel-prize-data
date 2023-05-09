@@ -1,1 +1,76 @@
-{"prizes": [{"year": "1987", "category": "economics", "laureates": [{"id": "701", "firstname": "Robert M.", "surname": "Solow", "motivation": "\"for his contributions to the theory of economic growth\"", "share": "1"}]}, {"year": "1987", "category": "literature", "laureates": [{"id": "664", "firstname": "Joseph", "surname": "Brodsky", "motivation": "\"for an all-embracing authorship, imbued with clarity of thought and poetic intensity\"", "share": "1"}]}, {"year": "1987", "category": "peace", "laureates": [{"id": "549", "firstname": "Oscar", "surname": "Arias S\u00e1nchez", "motivation": "\"for his work for lasting peace in Central America\"", "share": "1"}]}, {"year": "1987", "category": "physics", "laureates": [{"id": "130", "firstname": "J. Georg", "surname": "Bednorz", "motivation": "\"for their important break-through in the discovery of superconductivity in ceramic materials\"", "share": "2"}, {"id": "131", "firstname": "K. Alex", "surname": "M\u00fcller", "motivation": "\"for their important break-through in the discovery of superconductivity in ceramic materials\"", "share": "2"}]}, {"year": "1987", "category": "medicine", "laureates": [{"id": "436", "firstname": "Susumu", "surname": "Tonegawa", "motivation": "\"for his discovery of the genetic principle for generation of antibody diversity\"", "share": "1"}]}]}
+{
+	"prizes": [
+		{
+			"year": "1987",
+			"category": "economics",
+			"laureates": [
+				{
+					"id": "701",
+					"firstname": "Robert M.",
+					"surname": "Solow",
+					"motivation": "\"for his contributions to the theory of economic growth\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1987",
+			"category": "literature",
+			"laureates": [
+				{
+					"id": "664",
+					"firstname": "Joseph",
+					"surname": "Brodsky",
+					"motivation": "\"for an all-embracing authorship, imbued with clarity of thought and poetic intensity\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1987",
+			"category": "peace",
+			"laureates": [
+				{
+					"id": "549",
+					"firstname": "Oscar",
+					"surname": "Arias S\u00e1nchez",
+					"motivation": "\"for his work for lasting peace in Central America\"",
+					"share": "1"
+				}
+			]
+		},
+		{
+			"year": "1987",
+			"category": "physics",
+			"laureates": [
+				{
+					"id": "130",
+					"firstname": "J. Georg",
+					"surname": "Bednorz",
+					"motivation": "\"for their important break-through in the discovery of superconductivity in ceramic materials\"",
+					"share": "2"
+				},
+				{
+					"id": "131",
+					"firstname": "K. Alex",
+					"surname": "M\u00fcller",
+					"motivation": "\"for their important break-through in the discovery of superconductivity in ceramic materials\"",
+					"share": "2"
+				}
+			]
+		},
+		{
+			"year": "1987",
+			"category": "medicine",
+			"laureates": [
+				{
+					"id": "436",
+					"firstname": "Susumu",
+					"surname": "Tonegawa",
+					"motivation": "\"for his discovery of the genetic principle for generation of antibody diversity\"",
+					"share": "1"
+				}
+			]
+		}
+	]
+}
