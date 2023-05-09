@@ -1,13 +1,10 @@
 {
   "name": "nobel-prize-data",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "JSON dataset about Nobel Prizes and Laureates.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "scripts": {
-    "test": "jest",
-    "testwatch": "jest --watchAll --verbose"
-  },
+  "scripts": {},
   "keywords": ["json", "dataset", "nobel"],
   "author": "iaseth",
   "homepage": "https://github.com/iaseth/nobel-prize-data",

@@ -1,0 +1,37 @@
+
+# nobel-prize-data
+{{ "nobel-prize-data" | NpmLink }} is a JSON dataset containing details about all Nobel Prizes and Laureates since 1901.
+
+I created `nobel-prize-data` when I was working on {{ gh.link("iaseth/josn") }}.
+
+I am using {{ gh.link("iaseth/readmix", "readmix") }} for generating this README.
+You can view the source file [here](https://github.com/iaseth/nobel-prize-data/blob/master/README.md.rx).
+
+
+## Table of contents
+{{ tableOfContents(doc) }}
+
+
+## Installation
+You can install {{ "nobel-prize-data" | NpmLink }} with the following command:
+=> npm i nobel-prize-data
+
+
+## Package details
+{{ npm.packageDetails() }}
+
+
+## Dependencies
+{{ npm.dependencyTable() }}
+
+
+## Dev dependencies
+{{ npm.devDependencyTable() }}
+
+
+## License
+{{ "LICENSE.md" | File }}
+
+
+{{ giveCredit() }}
+
